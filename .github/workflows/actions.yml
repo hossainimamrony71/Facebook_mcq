@@ -2,7 +2,7 @@ name: Post MCQ to Facebook
 
 on:
   schedule:
-    - cron: "*/1 * * * *"  # Runs every 1 minute
+    - cron: "*/10 * * * *"  # Runs every 1 minute
 
 jobs:
   post-mcq:
