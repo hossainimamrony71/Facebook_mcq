@@ -1,0 +1,7314 @@
+[
+    {
+        "id": 1,
+        "question": "How many types of gender are there?",
+        "options": [
+            "A: Four types",
+            "B: Three types",
+            "C: Two types",
+            "D: one Type"
+        ]
+    },
+    {
+        "id": 2,
+        "question": "What is the meaning of the word ‘Nascent’?",
+        "options": [
+            "A: Trail",
+            "B: Beginning",
+            "C: Nasal",
+            "D: Odorous"
+        ]
+    },
+    {
+        "id": 3,
+        "question": "What is the antonym of the word ‘Somber’?",
+        "options": [
+            "A: Bright",
+            "B: Dark",
+            "C: Dismal",
+            "D: Gloomy"
+        ]
+    },
+    {
+        "id": 4,
+        "question": "What is the synonym of ‘Remember’-",
+        "options": [
+            "A: Call up",
+            "B: Memory",
+            "C: Forget",
+            "D: Recollect"
+        ]
+    },
+    {
+        "id": 5,
+        "question": "What is the antonym of ‘Expel’?",
+        "options": [
+            "A: Eject",
+            "B: Dismiss",
+            "C: Admit",
+            "D: Banish"
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Choose the correct spelling?",
+        "options": [
+            "A: Diesentry",
+            "B: Dysentry",
+            "C: Dysentary",
+            "D: Dysentery"
+        ]
+    },
+    {
+        "id": 7,
+        "question": "কোনটি শুদ্ধ বানান?",
+        "options": [
+            "A: Catastrophe",
+            "B: Cetastrophe",
+            "C: Catarstrofee",
+            "D: Catastrophee"
+        ]
+    },
+    {
+        "id": 8,
+        "question": "‘The boy wonders __ in the streets.’ বাক্যের শুণ্যস্থানে সঠিক শব্দ বসবে-",
+        "options": [
+            "A: for",
+            "B: of",
+            "C: at",
+            "D: about"
+        ]
+    },
+    {
+        "id": 9,
+        "question": "‘He prides himself __ his wealth’ বাক্যের শুণ্যস্থানে সঠিক শব্দ বসবে-",
+        "options": [
+            "A: of",
+            "B: for",
+            "C: on",
+            "D: in"
+        ]
+    },
+    {
+        "id": 10,
+        "question": "The idio ‘Bring to book’ এর অর্থ_",
+        "options": [
+            "A: Book Written by famous writer",
+            "B: Rebuke",
+            "C: Valueless person",
+            "D: None of the above"
+        ]
+    },
+    {
+        "id": 11,
+        "question": "“Fag end” Means__",
+        "options": [
+            "A: The last part",
+            "B: Foggy",
+            "C: Cut a bad figure",
+            "D: Unfair"
+        ]
+    },
+    {
+        "id": 12,
+        "question": "’By fits and starts’ means__",
+        "options": [
+            "A: Carefully",
+            "B: Irregularly",
+            "C: Regularly",
+            "D: Attentively"
+        ]
+    },
+    {
+        "id": 13,
+        "question": "Choose the correct sentence :",
+        "options": [
+            "A: He is angry upon me.",
+            "B: He is angry at me.",
+            "C: He is angry of me.",
+            "D: He is angry with me."
+        ]
+    },
+    {
+        "id": 14,
+        "question": "কোন বাক্যটি শুদ্ধ?",
+        "options": [
+            "A: He copied the answer word by word.",
+            "B: He copied the answer word with word.",
+            "C: He copied the answer word for word.",
+            "D: He copied the answer word in word."
+        ]
+    },
+    {
+        "id": 15,
+        "question": "“How dare you wake me up?” The lion roared at the mouse. Choose the correct narration:",
+        "options": [
+            "A: The lion roared and said to the mouse why he wake him up?",
+            "B: The lion roared and asked the mouse how it dared to wake him up",
+            "C: The lion said the mouse why it got him up?",
+            "D: The lion questioned the mouse how it dared to wake him up?"
+        ]
+    },
+    {
+        "id": 16,
+        "question": "Anis said, “I must write a letter”. The indirect narration of this sentence is_",
+        "options": [
+            "A: Anis said that he must write a letter.",
+            "B: Anis said he had to write a letter.",
+            "C: Anis sad that he had to write a letter.",
+            "D: Anis said he must write a letter."
+        ]
+    },
+    {
+        "id": 17,
+        "question": "‘All his pupil like him.’ বাক্যটির সঠিক passive form হচ্ছে-",
+        "options": [
+            "A: He is liked by all his pupils.",
+            "B: He was liked by all his pupils.",
+            "C: He is like by all his pupils.",
+            "D: He is being liked by all his pupils."
+        ]
+    },
+    {
+        "id": 18,
+        "question": "Does he speak English well? বাক্যটির সঠিক passive form হচ্ছে-",
+        "options": [
+            "A: Is English spoke well by him?",
+            "B: Is English Spoken well to him?",
+            "C: Was English spoke well by him?",
+            "D: Is English spoken well by him?"
+        ]
+    },
+    {
+        "id": 19,
+        "question": "‘Might’ শব্দটির Adjective নিচের কোনটি?",
+        "options": [
+            "A: Mighteous",
+            "B: Mightful",
+            "C: Mighter",
+            "D: Mighty"
+        ]
+    },
+    {
+        "id": 20,
+        "question": "Noun of the word ‘Break’ is-",
+        "options": [
+            "A: Breaking",
+            "B: Breach",
+            "C: Breakful",
+            "D: Breakdown"
+        ]
+    },
+    {
+        "id": 21,
+        "question": "কোন বানানটি শুদ্ধ?",
+        "options": [
+            "A: Achievment",
+            "B: Acheivment",
+            "C: Achievement",
+            "D: Acheivement"
+        ]
+    },
+    {
+        "id": 22,
+        "question": "Find out the correct synonym of “TENUOUS”-",
+        "options": [
+            "A: Vital",
+            "B: Thin",
+            "C: Careful",
+            "D: Dangerous"
+        ]
+    },
+    {
+        "id": 23,
+        "question": "‘The Sun Also Rises’ is a novel written by-",
+        "options": [
+            "A: Charles Dickens",
+            "B: Hermanne Melville",
+            "C: Earnest Hemingway",
+            "D: Thomas Hardy"
+        ]
+    },
+    {
+        "id": 24,
+        "question": "‘Restoration period’ in English literature refers to-",
+        "options": [
+            "A: 1560",
+            "B: 1660",
+            "C: 1760",
+            "D: 1866"
+        ]
+    },
+    {
+        "id": 25,
+        "question": "The comparison of unlike things using the words like on as is known to be-",
+        "options": [
+            "A: metaphor",
+            "B: simile",
+            "C: alliteration",
+            "D: personification"
+        ]
+    },
+    {
+        "id": 26,
+        "question": "P.B.Shelley’s ‘Adonais’ is an elegy on the death of-",
+        "options": [
+            "A: John Milton",
+            "B: S.T. Coleridge",
+            "C: John Keats",
+            "D: Lord Byron"
+        ]
+    },
+    {
+        "id": 27,
+        "question": "Othello gave Desdemona ______ as a token of love :",
+        "options": [
+            "A: Ring",
+            "B: Handkerchief",
+            "C: Pendant",
+            "D: Bangles"
+        ]
+    },
+    {
+        "id": 28,
+        "question": "Robert Browning was a _____ poet. Fill in the gap with appropriate word.",
+        "options": [
+            "A: Romantic",
+            "B: Victorim",
+            "C: Modern",
+            "D: Elizathan"
+        ]
+    },
+    {
+        "id": 29,
+        "question": "Who wrote “Biographia Literaria”?",
+        "options": [
+            "A: Lord Byron",
+            "B: P.B. Shelley",
+            "C: S.T. Coleridge",
+            "D: Charles Lamb"
+        ]
+    },
+    {
+        "id": 30,
+        "question": "What is a funny poem of five lines called?",
+        "options": [
+            "A: Quartet",
+            "B: Limerick",
+            "C: Sixtet",
+            "D: Haiku"
+        ]
+    },
+    {
+        "id": 31,
+        "question": "Which of the following is not a poetic tradition?",
+        "options": [
+            "A: The Epic",
+            "B: The Comic",
+            "C: The Occult",
+            "D: The Tragic"
+        ]
+    },
+    {
+        "id": 32,
+        "question": "The repetition of beginning consonant sound is known as-",
+        "options": [
+            "A: personification",
+            "B: onomatopoeia",
+            "C: alliteration",
+            "D: rhyme"
+        ]
+    },
+    {
+        "id": 33,
+        "question": "Shakespeare composed much of his plays on what sort of verse?",
+        "options": [
+            "A: Alliterative verse",
+            "B: Sonnet form",
+            "C: Iambic pentameter",
+            "D: Daetylic Haxameter"
+        ]
+    },
+    {
+        "id": 34,
+        "question": "Who has written the play ‘Volpone’?",
+        "options": [
+            "A: John Webster",
+            "B: Ben Jonson",
+            "C: Christopher Marlowe",
+            "D: William Shakespeare"
+        ]
+    },
+    {
+        "id": 35,
+        "question": "Who has written the poem “Elegy Written in a Country Churchyard”?",
+        "options": [
+            "A: Thomas Gray",
+            "B: P.B. Shelley",
+            "C: Robert Frost",
+            "D: Y.B. Yeats"
+        ]
+    },
+    {
+        "id": 36,
+        "question": "Fill in the blank.’__’ is Shakespeare’s last play.",
+        "options": [
+            "A: As you like it",
+            "B: Macbeth",
+            "C: Tempest",
+            "D: Othello"
+        ]
+    },
+    {
+        "id": 37,
+        "question": "”Gerontion” is a poem by-",
+        "options": [
+            "A: T.S.Eliot",
+            "B: W.B. Yeats",
+            "C: Matthew Arnold",
+            "D: Robert Browning"
+        ]
+    },
+    {
+        "id": 38,
+        "question": "Select the word that is the most closely opposite in meaning to the capitalized word: DELETERIOUS",
+        "options": [
+            "A: toxic",
+            "B: spurious",
+            "C: harmless",
+            "D: lethal"
+        ]
+    },
+    {
+        "id": 39,
+        "question": "Cassandra is a night owl, so she doesn’t usually get up until about:",
+        "options": [
+            "A: 11 am",
+            "B: 11 pm",
+            "C: 7 am",
+            "D: 7 pm"
+        ]
+    },
+    {
+        "id": 40,
+        "question": "Which do you think is the nearest in meaning to ‘proviso’ :",
+        "options": [
+            "A: sanction",
+            "B: substitute",
+            "C: stipulation",
+            "D: directive"
+        ]
+    },
+    {
+        "id": 41,
+        "question": "This is the book I lost. Here ‘I lost’ is –",
+        "options": [
+            "A: A noun phrase",
+            "B: An adverbial clause",
+            "C: An adjective clause",
+            "D: None of the three"
+        ]
+    },
+    {
+        "id": 42,
+        "question": "He worked with all sincerity. The underlined phrases is-",
+        "options": [
+            "A: A noun phrase",
+            "B: An adjective phrase",
+            "C: An infinitive phrase",
+            "D: An adverbial phrase"
+        ]
+    },
+    {
+        "id": 43,
+        "question": "The phrase ‘Achilles’ heel’ means”",
+        "options": [
+            "A: A Strong point",
+            "B: A  weak point",
+            "C: A permanent solution",
+            "D: A serious idea"
+        ]
+    },
+    {
+        "id": 44,
+        "question": "Complete the following sentence choosing the appropriate option: It’s raining cats and dogs, so –",
+        "options": [
+            "A: Watch out for falling animals.",
+            "B: Make sure you take an umbrella.",
+            "C: Keep our pets inside",
+            "D: Keep the windows open."
+        ]
+    },
+    {
+        "id": 45,
+        "question": "The word “omnivorous” means:",
+        "options": [
+            "A: eating all types of food.",
+            "B: eating only fruits",
+            "C: eating only meat",
+            "D: eating grass and plants only"
+        ]
+    },
+    {
+        "id": 46,
+        "question": "Use the appropriate article- I saw _____ one-eyed man when I was walking on the road.",
+        "options": [
+            "A: a",
+            "B: an",
+            "C: the",
+            "D: no article is needed"
+        ]
+    },
+    {
+        "id": 47,
+        "question": "Fill in the blank with appropriate use of tense: I couldn’t mend the computer myself, so I _______ at a shop.",
+        "options": [
+            "A: had it mended",
+            "B: had it mend",
+            "C: did it mend",
+            "D: had mended"
+        ]
+    },
+    {
+        "id": 48,
+        "question": "Choose the appropriate prepositions in the blank of the following sentence : The family does not feel ____ going outing this season.",
+        "options": [
+            "A: in",
+            "B: on",
+            "C: like",
+            "D: of"
+        ]
+    },
+    {
+        "id": 49,
+        "question": "Education is enlightening. Here “enlightening” is – :",
+        "options": [
+            "A: A gerund",
+            "B: A participle",
+            "C: An infinitive",
+            "D: A finite verb"
+        ]
+    },
+    {
+        "id": 50,
+        "question": "Frailty the name is women. Here “Frailty” is:",
+        "options": [
+            "A: A noun",
+            "B: An adjective",
+            "C: An adverb",
+            "D: A verb"
+        ]
+    },
+    {
+        "id": 51,
+        "question": "“Who planted this tree here”? The correct passive voice of this sentence is-",
+        "options": [
+            "A: By whom was this tree planted here?",
+            "B: Who the tree had been planted hereby?",
+            "C: The tree was planted here by whom?",
+            "D: By whom had the tree been planted here?"
+        ]
+    },
+    {
+        "id": 52,
+        "question": "The new offer of job was alluring. Here “alluring” means –",
+        "options": [
+            "A: unexpected",
+            "B: tempting",
+            "C: disappointing",
+            "D: ordinary"
+        ]
+    },
+    {
+        "id": 53,
+        "question": "The mother sat vigilantly beside the sick baby. Here “vigilantly” is –",
+        "options": [
+            "A: a noun",
+            "B: an adverb",
+            "C: an adjective",
+            "D: none of the three"
+        ]
+    },
+    {
+        "id": 54,
+        "question": "A chart was appended to the report. Here “appended” means-",
+        "options": [
+            "A: changed",
+            "B: removed",
+            "C: joined",
+            "D: shortened"
+        ]
+    },
+    {
+        "id": 55,
+        "question": "“A rolling stone gathers no moss” The complex form of the sentence is –",
+        "options": [
+            "A: Since a stone is rolling, it gathers no moss.",
+            "B: Though a stone rolls, it gathers no moss.",
+            "C: A stone what rolls gathers no moss.",
+            "D: A stone that rolls gathers no moss."
+        ]
+    },
+    {
+        "id": 56,
+        "question": "Choose the correct sentence :",
+        "options": [
+            "A: All of it depend on you.",
+            "B: All of it are depending on you.",
+            "C: All of it depends on you.",
+            "D: All of it are depended on you."
+        ]
+    },
+    {
+        "id": 57,
+        "question": "Which is the following words is in singular form?",
+        "options": [
+            "A: formulae",
+            "B: agenda",
+            "C: oases",
+            "D: radius"
+        ]
+    },
+    {
+        "id": 58,
+        "question": "The novelist has a hold of ______ in writing .",
+        "options": [
+            "A: manner",
+            "B: history",
+            "C: tradition",
+            "D: style"
+        ]
+    },
+    {
+        "id": 59,
+        "question": "Which one is the correct indirect narration?“Why have you beaten my dog”? He said to me.",
+        "options": [
+            "A: He demanded me why had I beaten his dog.",
+            "B: He demanded me why had I beaten his dog.",
+            "C: He enquired me why had I had beaten his dog.",
+            "D: He demanded of me why I had beaten his dog."
+        ]
+    },
+    {
+        "id": 60,
+        "question": "Which period is known as ‘the Golden Age of English literature’?",
+        "options": [
+            "A: The Victorian age",
+            "B: The Elizabeth age",
+            "C: The Restoration age",
+            "D: The Eighteenth century"
+        ]
+    },
+    {
+        "id": 61,
+        "question": "‘Among’ is a preposition that is used when _____ people are involved.",
+        "options": [
+            "A: two",
+            "B: more than two",
+            "C: two or more than two",
+            "D: four only"
+        ]
+    },
+    {
+        "id": 62,
+        "question": "Select the correctly spelt word:",
+        "options": [
+            "A: heterogeneous",
+            "B: hetarogeneous",
+            "C: hetrogeneous",
+            "D: hetroganeous"
+        ]
+    },
+    {
+        "id": 63,
+        "question": "The Word “Panegyric” means-",
+        "options": [
+            "A: Criticism",
+            "B: elaborate praise",
+            "C: curse",
+            "D: high sound"
+        ]
+    },
+    {
+        "id": 64,
+        "question": "Who among the following Indian English writers in a famous novelist ?",
+        "options": [
+            "A: Gayatri chakravorty Spivak",
+            "B: R.K Narayan",
+            "C: Nissim Ezekiel",
+            "D: Kamala Das"
+        ]
+    },
+    {
+        "id": 65,
+        "question": "The play “The Spanish Tragedy” is written by-",
+        "options": [
+            "A: Thomas Kyd",
+            "B: Christopher Marlowe",
+            "C: Shakespeare",
+            "D: Ben Jonson"
+        ]
+    },
+    {
+        "id": 66,
+        "question": "‘Strike while the iron is hot’ is an example of-",
+        "options": [
+            "A: noun clause",
+            "B: objective clause",
+            "C: adverbial clause",
+            "D: Subordinate clause"
+        ]
+    },
+    {
+        "id": 67,
+        "question": "A Speech of too many words is called-",
+        "options": [
+            "A: A big  speech",
+            "B: Maiden speech",
+            "C: An unimportant speech",
+            "D: A verbose speech"
+        ]
+    },
+    {
+        "id": 68,
+        "question": "Who is not a Victorian poet ?",
+        "options": [
+            "A: Matthew Arnold",
+            "B: Alexander pope",
+            "C: Robot Browning",
+            "D: Alfred Tennyson"
+        ]
+    },
+    {
+        "id": 69,
+        "question": "Which one of the following words is and example of a distributive pronoun?",
+        "options": [
+            "A: such",
+            "B: either",
+            "C: that",
+            "D: any"
+        ]
+    },
+    {
+        "id": 70,
+        "question": "Reading is an excellent habit. Here the underlined word is a –",
+        "options": [
+            "A: Verbal Noun",
+            "B: Participle",
+            "C: Verb",
+            "D: Gerund"
+        ]
+    },
+    {
+        "id": 71,
+        "question": "‘Mutton’ is a/an",
+        "options": [
+            "A: Common noun",
+            "B: abstract noun",
+            "C: material noun",
+            "D: proper noun"
+        ]
+    },
+    {
+        "id": 72,
+        "question": "The Literary term ’euphemism’ means-",
+        "options": [
+            "A: vague idea",
+            "B: in offensive expression",
+            "C: a sonnet",
+            "D: wise saying"
+        ]
+    },
+    {
+        "id": 73,
+        "question": "Of the following authors, who wrote as epic?",
+        "options": [
+            "A: John Milton",
+            "B: Jane Mansfield",
+            "C: William Cowper",
+            "D: William Shakesperae"
+        ]
+    },
+    {
+        "id": 74,
+        "question": "Identify the right passive voice of ‘It is impossible to do this’.",
+        "options": [
+            "A: Doing this is impossible",
+            "B: This is impossible to be done",
+            "C: This is must be done",
+            "D: This can’t be done."
+        ]
+    },
+    {
+        "id": 75,
+        "question": "Which one of the following words is in singular form?",
+        "options": [
+            "A: agenda",
+            "B: oases",
+            "C: radius",
+            "D: formulae"
+        ]
+    },
+    {
+        "id": 76,
+        "question": "The sun went down. The underlined word is used here as a/an:",
+        "options": [
+            "A: preposition",
+            "B: adverb",
+            "C: noun",
+            "D: conjunction"
+        ]
+    },
+    {
+        "id": 77,
+        "question": "Fill in the blank :   Tourists —– Their reservations well in advance if they want to fly to cox’s bazar.",
+        "options": [
+            "A: better to had get",
+            "B: had better to get",
+            "C: had better got",
+            "D: had better get"
+        ]
+    },
+    {
+        "id": 78,
+        "question": "‘for god’s sake hold your tongue, and let me love.’ This line is written by-",
+        "options": [
+            "A: Emily Dickinson",
+            "B: T.S. Eliot",
+            "C: Matthew Arnold",
+            "D: John Donne"
+        ]
+    },
+    {
+        "id": 79,
+        "question": "Where do the following lines occur in? ‘Alone,alone, all, all alone, Alone on a wide, wide sea  ——-’.",
+        "options": [
+            "A: The Rime of the Ancient Mariner",
+            "B: Kubla Khan",
+            "C: The Nightingale",
+            "D: The Dungeon"
+        ]
+    },
+    {
+        "id": 80,
+        "question": "select the right compound structure of the sentence:  “Though he is poor, he is honest”.",
+        "options": [
+            "A: He is poor and honest",
+            "B: as he is poor, he is honest.",
+            "C: He is poor but honest.",
+            "D: Since he is poor, he is honest."
+        ]
+    },
+    {
+        "id": 81,
+        "question": "Fill in the blank with the correct quantifier: I still have ——- money.",
+        "options": [
+            "A: a few",
+            "B: quite a few",
+            "C: many",
+            "D: a little"
+        ]
+    },
+    {
+        "id": 82,
+        "question": "Choose the meaning of the idiom- ‘Take the bull by the horns’.",
+        "options": [
+            "A: To challenge the enemy to courage",
+            "B: Force the enemy to submit",
+            "C: Out of one’s wit",
+            "D: Surrender before the enemy"
+        ]
+    },
+    {
+        "id": 83,
+        "question": "Which one is the correct antonym of ‘frugal’?",
+        "options": [
+            "A: Extraordinary",
+            "B: spendthrift",
+            "C: economical",
+            "D: authentic"
+        ]
+    },
+    {
+        "id": 84,
+        "question": "Fill in the gap with the right tense: When  water ____ it turns into ice.",
+        "options": [
+            "A: will freeze",
+            "B: freezes",
+            "C: would freeze",
+            "D: froze"
+        ]
+    },
+    {
+        "id": 85,
+        "question": "Choose appropriate preposition in the blank of the following sentence : Eight men were concerned ____ the plot.",
+        "options": [
+            "A: at",
+            "B: with",
+            "C: in",
+            "D: for"
+        ]
+    },
+    {
+        "id": 86,
+        "question": "A retired officer lives next door.Here, the underlined word is used as a/an :",
+        "options": [
+            "A: Gerund",
+            "B: adverb",
+            "C: preposition",
+            "D: participle"
+        ]
+    },
+    {
+        "id": 87,
+        "question": "‘Jacobean period’ of English literature refers to-",
+        "options": [
+            "A: 1558-1603",
+            "B: 1625-1649",
+            "C: 1603-1625",
+            "D: 1649-1660"
+        ]
+    },
+    {
+        "id": 88,
+        "question": "‘Once in a blue moon’  means-",
+        "options": [
+            "A: always",
+            "B: very rarely",
+            "C: nearly",
+            "D: hourly"
+        ]
+    },
+    {
+        "id": 89,
+        "question": "which word is closest in meaning to ‘Franchise’?",
+        "options": [
+            "A: Utility",
+            "B: frankness",
+            "C: privilege",
+            "D: Superficial"
+        ]
+    },
+    {
+        "id": 90,
+        "question": "Choose the correct sentence :",
+        "options": [
+            "A: He refrained to take any drastic action",
+            "B: He refrained on taking any drastic action",
+            "C: He refrained in taking any drastic action",
+            "D: He refrained from taking any drastic action"
+        ]
+    },
+    {
+        "id": 91,
+        "question": "What is the plural form of the word ‘louse’?",
+        "options": [
+            "A: louses",
+            "B: lice",
+            "C: lices",
+            "D: licess"
+        ]
+    },
+    {
+        "id": 92,
+        "question": "The most famous satirist in English literature is-",
+        "options": [
+            "A: Jonathan swift",
+            "B: Alexander Pope",
+            "C: Joseph Addison",
+            "D: Richard Steel"
+        ]
+    },
+    {
+        "id": 93,
+        "question": "Who is the author of ‘Man and Superman’?",
+        "options": [
+            "A: G.B.Show",
+            "B: Thomas Hardy",
+            "C: Earnest harmingway",
+            "D: Charles Dickens"
+        ]
+    },
+    {
+        "id": 94,
+        "question": "choose the correct sentence",
+        "options": [
+            "A: Rich is not always happy",
+            "B: The rich is not always happy",
+            "C: The rich is not happy always",
+            "D: The rich are not always happy"
+        ]
+    },
+    {
+        "id": 95,
+        "question": "When i saw the garden he – tree",
+        "options": [
+            "A: will be cutting down",
+            "B: was cutting down",
+            "C: cut down",
+            "D: is cutting down"
+        ]
+    },
+    {
+        "id": 96,
+        "question": "আটলান্টিক মহাসাগরের পশ্চিম তীরে কোনটি অবস্থিত?",
+        "options": [
+            "A: এশিয়া",
+            "B: ইউরোপ",
+            "C: আমেরিকা",
+            "D: আফ্রিকা"
+        ]
+    },
+    {
+        "id": 97,
+        "question": "The strike was called __ at last.",
+        "options": [
+            "A: of",
+            "B: at",
+            "C: off",
+            "D: on"
+        ]
+    },
+    {
+        "id": 98,
+        "question": "What is the antonym of ‘famous’?",
+        "options": [
+            "A: Oraque",
+            "B: Obscure",
+            "C: Illiterate",
+            "D: Immature"
+        ]
+    },
+    {
+        "id": 99,
+        "question": "Synonym of – MELD",
+        "options": [
+            "A: Purchase",
+            "B: Glisten",
+            "C: To soothe",
+            "D: Merge"
+        ]
+    },
+    {
+        "id": 100,
+        "question": "The passive form of the sentence “some children were helping the wounded man” ‒",
+        "options": [
+            "A: The wounded man was helped by some children",
+            "B: The wounded man was helping some children",
+            "C: The wounded man was being helped by some children",
+            "D: The wounded man was to be helped by some children"
+        ]
+    },
+    {
+        "id": 101,
+        "question": "The Parthenon is said ‒ erected in the Age of Pericles.",
+        "options": [
+            "A: to have become",
+            "B: to have begun",
+            "C: to have been",
+            "D: to have had begun"
+        ]
+    },
+    {
+        "id": 102,
+        "question": "Find out the correct antonym of  the following word- ‘Plausible’",
+        "options": [
+            "A: Likely",
+            "B: Credible",
+            "C: Probable",
+            "D: Implausible"
+        ]
+    },
+    {
+        "id": 103,
+        "question": "It is too difficult to tolerate bad temper for long. which of the following phrases does best replace ‘tolerate’ in the above sentence?",
+        "options": [
+            "A: cope up with",
+            "B: put up with",
+            "C: stand up for",
+            "D: pull on with"
+        ]
+    },
+    {
+        "id": 104,
+        "question": "The word ‘homogeneous’ means:",
+        "options": [
+            "A: Of the same kind",
+            "B: Of the same place",
+            "C: Of the same race",
+            "D: Of the same density"
+        ]
+    },
+    {
+        "id": 105,
+        "question": "Correct spelling –",
+        "options": [
+            "A: Influenza",
+            "B: Influanza",
+            "C: Influanja",
+            "D: Influenja"
+        ]
+    },
+    {
+        "id": 106,
+        "question": "Lengthen : Prolong",
+        "options": [
+            "A: stretch : extend",
+            "B: distance : reduce",
+            "C: draw out : shorten",
+            "D: reach out : cut short"
+        ]
+    },
+    {
+        "id": 107,
+        "question": "You had better ——–here.",
+        "options": [
+            "A: stayed",
+            "B: stay",
+            "C: staying",
+            "D: to stay"
+        ]
+    },
+    {
+        "id": 108,
+        "question": "Synonym of – RESCUE",
+        "options": [
+            "A: Help",
+            "B: Defence",
+            "C: Safety",
+            "D: Command"
+        ]
+    },
+    {
+        "id": 109,
+        "question": "In each of the follwing questions,choose the word opposite in meaning to the given word:-LIABILITY",
+        "options": [
+            "A: Treasure",
+            "B: Debt",
+            "C: Assets",
+            "D: Property"
+        ]
+    },
+    {
+        "id": 110,
+        "question": "Ghost Writer এর মানে কি?",
+        "options": [
+            "A: ভূত লেখক",
+            "B: যিনি শুধু ভৌতিক কাহিনী লিখেন",
+            "C: যিনি কাহিনী, আর্টিকেল, বই বা রিপোর্ট লিখেন",
+            "D: কোনটিই নয়"
+        ]
+    },
+    {
+        "id": 111,
+        "question": "The synoym of ‘pandemonium’ is ——.",
+        "options": [
+            "A: order",
+            "B: calm",
+            "C: commotion",
+            "D: peace"
+        ]
+    },
+    {
+        "id": 112,
+        "question": "“I _ remember the holiday I spent in your home, ” she said.",
+        "options": [
+            "A: ever",
+            "B: hardly",
+            "C: usually",
+            "D: always"
+        ]
+    },
+    {
+        "id": 113,
+        "question": "What is the synonym of competent ?",
+        "options": [
+            "A: Circumspect",
+            "B: Capable",
+            "C: Discrete",
+            "D: Prudent"
+        ]
+    },
+    {
+        "id": 114,
+        "question": "By and large means—–",
+        "options": [
+            "A: very large",
+            "B: mostly",
+            "C: everywhere",
+            "D: far away"
+        ]
+    },
+    {
+        "id": 115,
+        "question": "Fill in the blanks :What is the time ———- your watch?",
+        "options": [
+            "A: by",
+            "B: with",
+            "C: on",
+            "D: in"
+        ]
+    },
+    {
+        "id": 116,
+        "question": "Choose the correct answer. How long did you wait ?",
+        "options": [
+            "A: Till launch time",
+            "B: Till he came",
+            "C: until six O' clock",
+            "D: Since this morning"
+        ]
+    },
+    {
+        "id": 117,
+        "question": "The climate is congenital —– health",
+        "options": [
+            "A: with",
+            "B: on",
+            "C: to",
+            "D: for"
+        ]
+    },
+    {
+        "id": 118,
+        "question": "Choose the correct spelling-",
+        "options": [
+            "A: Query",
+            "B: Queiry",
+            "C: Qeiry",
+            "D: Queery"
+        ]
+    },
+    {
+        "id": 119,
+        "question": "He was unreasonably angry___ me .",
+        "options": [
+            "A: at",
+            "B: with",
+            "C: by",
+            "D: on"
+        ]
+    },
+    {
+        "id": 120,
+        "question": "Select the correct English translation of: “The boy takes after his father”",
+        "options": [
+            "A: ছেলেটি তার পিতার দেখাশুনা করে",
+            "B: ছেলেটি তার পিতার অনুকরণ করে",
+            "C: ছেলেটি তার পিতার পদাংক অনুসরণ করে",
+            "D: ছেলেটি দেখতে তার পিতার মত"
+        ]
+    },
+    {
+        "id": 121,
+        "question": "Stockings are _ socks",
+        "options": [
+            "A: long",
+            "B: small",
+            "C: big",
+            "D: short"
+        ]
+    },
+    {
+        "id": 122,
+        "question": "Societies living in the “periphery” are always ignored. Here the quoted word means —",
+        "options": [
+            "A: offshore areas",
+            "B: remote places",
+            "C: marginal areas",
+            "D: backward regions"
+        ]
+    },
+    {
+        "id": 123,
+        "question": "He acted——strong opposition",
+        "options": [
+            "A: in teeth",
+            "B: in teeth of",
+            "C: in the teeth of",
+            "D: by the teeth of"
+        ]
+    },
+    {
+        "id": 124,
+        "question": "What is the verb from of the word ‘fresh’?",
+        "options": [
+            "A: enfresh",
+            "B: freshen",
+            "C: freshy",
+            "D: defresh"
+        ]
+    },
+    {
+        "id": 125,
+        "question": "Rinku said to Pinku, “You would not fight with me.”",
+        "options": [
+            "A: Rinku told to Pinku that he has not to fight with her.",
+            "B: Rinku told to Pinku that he would not fight with her.",
+            "C: Rinku told to Pinku that he will not fight with her.",
+            "D: Rinku told to Pinku that he should not fight with her."
+        ]
+    },
+    {
+        "id": 126,
+        "question": "What kind noun is Cattle ?",
+        "options": [
+            "A: Proper",
+            "B: Common",
+            "C: Collective",
+            "D: Material"
+        ]
+    },
+    {
+        "id": 127,
+        "question": "I lent him a book _____ New York yesterday.",
+        "options": [
+            "A: in",
+            "B: at",
+            "C: on",
+            "D: about"
+        ]
+    },
+    {
+        "id": 128,
+        "question": "There is ——— in one of front teeth.",
+        "options": [
+            "A: a filing",
+            "B: a cavity",
+            "C: decay",
+            "D: food"
+        ]
+    },
+    {
+        "id": 129,
+        "question": "It is health which is ___.",
+        "options": [
+            "A: Asset",
+            "B: precious",
+            "C: wealth",
+            "D: valuable"
+        ]
+    },
+    {
+        "id": 130,
+        "question": "As the sun ___, I decided to go out.",
+        "options": [
+            "A: shines",
+            "B: has shone",
+            "C: shine",
+            "D: was shining"
+        ]
+    },
+    {
+        "id": 131,
+        "question": "I spent – -with the patient",
+        "options": [
+            "A: sometimes",
+            "B: sometime",
+            "C: some time",
+            "D: some times"
+        ]
+    },
+    {
+        "id": 132,
+        "question": "synonyms of the word take",
+        "options": [
+            "A: Speak",
+            "B: Accept",
+            "C: Throw",
+            "D: Give"
+        ]
+    },
+    {
+        "id": 133,
+        "question": "the world ‘custodian’ means",
+        "options": [
+            "A: personal storage room",
+            "B: Caretaker",
+            "C: Announcer",
+            "D: Doorman"
+        ]
+    },
+    {
+        "id": 134,
+        "question": "Find out the correct sentence",
+        "options": [
+            "A: we write by ink",
+            "B: we write with ink",
+            "C: we write in ink",
+            "D: we write  Under ink"
+        ]
+    },
+    {
+        "id": 135,
+        "question": "who should be alive —- our problem  the word in the bank space should be.",
+        "options": [
+            "A: to",
+            "B: by",
+            "C: for",
+            "D: on"
+        ]
+    },
+    {
+        "id": 136,
+        "question": "What is elegy",
+        "options": [
+            "A: An ordinary poem",
+            "B: opening portion of a longer work",
+            "C: song of lamentation",
+            "D: analysis of the internal  pattern of a verse"
+        ]
+    },
+    {
+        "id": 137,
+        "question": "who is the English epic. Poet?",
+        "options": [
+            "A: John keats",
+            "B: John miltion",
+            "C: William Wordsworth",
+            "D: Lord Tennyson"
+        ]
+    },
+    {
+        "id": 138,
+        "question": "verb of the word ability is-",
+        "options": [
+            "A: Able",
+            "B: Ably",
+            "C: Ability",
+            "D: Enable"
+        ]
+    },
+    {
+        "id": 139,
+        "question": "Which of the following sentence is Demonstrative pronoun?",
+        "options": [
+            "A: HE",
+            "B: Yourself",
+            "C: Those",
+            "D: Who"
+        ]
+    },
+    {
+        "id": 140,
+        "question": "The passive form of the sentence ‘we don’t like idle people’ is",
+        "options": [
+            "A: We are not liked by idle people",
+            "B: idle people are not like us",
+            "C: Idle people are not liked by us",
+            "D: idle people are not of out liking"
+        ]
+    },
+    {
+        "id": 141,
+        "question": "Antonym of elegance is-",
+        "options": [
+            "A: Ugliness",
+            "B: Nonsense",
+            "C: Dominance",
+            "D: Charming"
+        ]
+    },
+    {
+        "id": 142,
+        "question": "Choose the correct passive voice from the following sentence: all of his friends laughed at him",
+        "options": [
+            "A: he laughed at all of his friends",
+            "B: he was laughed at by all of his friends",
+            "C: all office friend thank",
+            "D: All of his friends were laughed at him"
+        ]
+    },
+    {
+        "id": 143,
+        "question": "The rainbow is —",
+        "options": [
+            "A: a poem by Wordsworth",
+            "B: a short story by somerst maugham",
+            "C: Novle by DH Lawrence",
+            "D: A verse by coleridge"
+        ]
+    },
+    {
+        "id": 144,
+        "question": "Reading Makes a full man, conference a Ready man, writing an exact man’ – who told it",
+        "options": [
+            "A: Chapman",
+            "B: Frost",
+            "C: Hamlet",
+            "D: Bacon"
+        ]
+    },
+    {
+        "id": 145,
+        "question": "the world wonderful is a/an",
+        "options": [
+            "A: Noun",
+            "B: adjective",
+            "C: pronoun",
+            "D: adverb"
+        ]
+    },
+    {
+        "id": 146,
+        "question": "he is poor but honest.  in this sentence which is conjunction",
+        "options": [
+            "A: Poor",
+            "B: honest",
+            "C: but",
+            "D: he"
+        ]
+    },
+    {
+        "id": 147,
+        "question": "what is the synonym of Effigy",
+        "options": [
+            "A: Proxy",
+            "B: Profundity",
+            "C: Boldness",
+            "D: Dummy"
+        ]
+    },
+    {
+        "id": 148,
+        "question": "a specialist in eye disease is called",
+        "options": [
+            "A: A cardiologist",
+            "B: An opthamologist",
+            "C: An optician",
+            "D: A Neurologist"
+        ]
+    },
+    {
+        "id": 149,
+        "question": "I thought that",
+        "options": [
+            "A: He is as good as mine",
+            "B: He is as good as me",
+            "C: He is as good as myself",
+            "D: He is as good as I"
+        ]
+    },
+    {
+        "id": 150,
+        "question": "choose the correct indirect form of the following direct sentence",
+        "options": [
+            "A: He said that all of them are sinners",
+            "B: All of them are sinners was told by them",
+            "C: All of us are sinners was told by  him",
+            "D: He said that  all we are sinners"
+        ]
+    },
+    {
+        "id": 151,
+        "question": "choose the correct alternative verb for the sentence I don’t think I — be able to go",
+        "options": [
+            "A: shall",
+            "B: should",
+            "C: can",
+            "D: could"
+        ]
+    },
+    {
+        "id": 152,
+        "question": "Is there any milk in that jag? Not–",
+        "options": [
+            "A: more",
+            "B: many",
+            "C: much",
+            "D: some"
+        ]
+    },
+    {
+        "id": 153,
+        "question": "What is the time your watch?",
+        "options": [
+            "A: in",
+            "B: at",
+            "C: by",
+            "D: with"
+        ]
+    },
+    {
+        "id": 154,
+        "question": "‘Bird’s eye view’ means",
+        "options": [
+            "A: A rough idea",
+            "B: Eyes birds",
+            "C: Eyes of a flock of birds",
+            "D: A view of the sky"
+        ]
+    },
+    {
+        "id": 155,
+        "question": "শূন্যস্থানে কোন শব্দটি বসবে? He deals ___ stationery goods.",
+        "options": [
+            "A: with",
+            "B: in",
+            "C: on",
+            "D: of"
+        ]
+    },
+    {
+        "id": 156,
+        "question": "মেয়েটি হাসতে হাসতে ঘরে ঢুকলো। বাক্যটির সঠিক ইংরেজি অনুবাদ কি?",
+        "options": [
+            "A: The girl laughingly entered the room",
+            "B: The girl laughing entered the room",
+            "C: The girl entered the room laughing",
+            "D: The girls laughed and entered the room"
+        ]
+    },
+    {
+        "id": 157,
+        "question": "If he runs fast, he __win the prize. Fill in the blank.",
+        "options": [
+            "A: would",
+            "B: will",
+            "C: can",
+            "D: could"
+        ]
+    },
+    {
+        "id": 158,
+        "question": "Choose the right word. Jamal and I — to school",
+        "options": [
+            "A: walking walks",
+            "B: walks",
+            "C: walk",
+            "D: are walk"
+        ]
+    },
+    {
+        "id": 159,
+        "question": "Rahim argued against war",
+        "options": [
+            "A: While his brother discusses the effects of pollution",
+            "B: While his brother discussed the effects of pollution",
+            "C: While his brother was discussing the effects of pollution",
+            "D: While his brother had discussed the effects of pollution"
+        ]
+    },
+    {
+        "id": 160,
+        "question": "Just now he—- his dinner but he says he’ll see you when he’s finished.",
+        "options": [
+            "A: is having",
+            "B: has had",
+            "C: was having",
+            "D: had"
+        ]
+    },
+    {
+        "id": 161,
+        "question": "Who wrote “an apology for poetry” ?",
+        "options": [
+            "A: P.B shelly",
+            "B: Philip Sidney",
+            "C: samue johnson",
+            "D: John Donne"
+        ]
+    },
+    {
+        "id": 162,
+        "question": "“SOLICIT” Means_______.",
+        "options": [
+            "A: give",
+            "B: bring",
+            "C: seek",
+            "D: advice"
+        ]
+    },
+    {
+        "id": 163,
+        "question": "The correct spelling is :",
+        "options": [
+            "A: Pharmaceutical",
+            "B: Pharmacitical",
+            "C: Pharmaceuticle",
+            "D: Parmicitical"
+        ]
+    },
+    {
+        "id": 164,
+        "question": "Choose the correct antonym for “Slack”",
+        "options": [
+            "A: twisted",
+            "B: compact",
+            "C: taut",
+            "D: durable"
+        ]
+    },
+    {
+        "id": 165,
+        "question": "I must do this.(Negative)",
+        "options": [
+            "A: I cannot but doing this",
+            "B: I must not do this",
+            "C: I cannot help do this.",
+            "D: I cannot help doing this"
+        ]
+    },
+    {
+        "id": 166,
+        "question": "“But I have promises to keep and miles to go  before I sleep” __ was written by________.",
+        "options": [
+            "A: T.S Eliot",
+            "B: W.B Yeats",
+            "C: Robert Frost",
+            "D: Ted Huges"
+        ]
+    },
+    {
+        "id": 167,
+        "question": "Which is known as shakespeare’s swan song?",
+        "options": [
+            "A: Hamlet",
+            "B: Machbeth",
+            "C: The Tempest",
+            "D: Twelfth night"
+        ]
+    },
+    {
+        "id": 168,
+        "question": "A famous essayist in renaissance period is_________.",
+        "options": [
+            "A: Thomas more",
+            "B: William thackery",
+            "C: Thomas Hardy",
+            "D: Thomas Paine"
+        ]
+    },
+    {
+        "id": 169,
+        "question": "“The child is father of the man” is quoted by ______.",
+        "options": [
+            "A: Lord by",
+            "B: Alexander pop",
+            "C: john Milton",
+            "D: W. Wordsworth."
+        ]
+    },
+    {
+        "id": 170,
+        "question": "Who is the first english dictionary compiler?",
+        "options": [
+            "A: G.Chaucer",
+            "B: E Spenser",
+            "C: Dr. Jahnson",
+            "D: W.S Porter"
+        ]
+    },
+    {
+        "id": 171,
+        "question": "“Lyrical ballads” was published in the year______.",
+        "options": [
+            "A: 1798",
+            "B: 1770",
+            "C: 1779",
+            "D: 1775"
+        ]
+    },
+    {
+        "id": 172,
+        "question": "Most important feature of a romantic poetry is_______.",
+        "options": [
+            "A: Beauty",
+            "B: Nature",
+            "C: Subjectivity",
+            "D: imagination"
+        ]
+    },
+    {
+        "id": 173,
+        "question": "Protagonist indicates _____________.",
+        "options": [
+            "A: The main character or actor in a play.",
+            "B: The down on a play",
+            "C: The villain in a play.",
+            "D: The stage director of a play."
+        ]
+    },
+    {
+        "id": 174,
+        "question": "Find the odd one.",
+        "options": [
+            "A: A farewell to Arms",
+            "B: A haunted House",
+            "C: A tale of two cities",
+            "D: A Tale of Tub."
+        ]
+    },
+    {
+        "id": 175,
+        "question": "The poet laureate is _____.",
+        "options": [
+            "A: The best poet of the country",
+            "B: A winner of thr nobel prize in poetry.",
+            "C: The court poet of england",
+            "D: A classical poet."
+        ]
+    },
+    {
+        "id": 176,
+        "question": "Which is called romantic age?",
+        "options": [
+            "A: 1664-1725",
+            "B: 1780-1840",
+            "C: 1798-1832",
+            "D: 1890-1930"
+        ]
+    },
+    {
+        "id": 177,
+        "question": "Find the odd man-out",
+        "options": [
+            "A: Alfred Tennyson",
+            "B: Andrew marvell",
+            "C: Ben Jonson",
+            "D: Dante"
+        ]
+    },
+    {
+        "id": 178,
+        "question": "Dramatic monologue is used in _______ .",
+        "options": [
+            "A: Novel",
+            "B: Drama",
+            "C: Epic",
+            "D: Poetry"
+        ]
+    },
+    {
+        "id": 179,
+        "question": "Elizabethsn tragedy is centred on______.",
+        "options": [
+            "A: Nature",
+            "B: War",
+            "C: Love",
+            "D: Revenge"
+        ]
+    },
+    {
+        "id": 180,
+        "question": "What is sonnet?",
+        "options": [
+            "A: A pose of special nature.",
+            "B: A sad poem of reputed poet.",
+            "C: A poem of fourteen lines.",
+            "D: A criticism of a poet."
+        ]
+    },
+    {
+        "id": 181,
+        "question": "Neither Jane nor _____have been to the opera.",
+        "options": [
+            "A: me",
+            "B: I",
+            "C: he",
+            "D: him"
+        ]
+    },
+    {
+        "id": 182,
+        "question": "Three fourths of the work _____finished.",
+        "options": [
+            "A: have been",
+            "B: had",
+            "C: has been",
+            "D: were"
+        ]
+    },
+    {
+        "id": 183,
+        "question": "Which of the following words is not related to laughing?",
+        "options": [
+            "A: stinking",
+            "B: smiling",
+            "C: giggle",
+            "D: chuckle"
+        ]
+    },
+    {
+        "id": 184,
+        "question": "A antonym of Dexterous is___",
+        "options": [
+            "A: maladroit",
+            "B: malign",
+            "C: malcontent",
+            "D: malnourished"
+        ]
+    },
+    {
+        "id": 185,
+        "question": "‘Milk and water’ means",
+        "options": [
+            "A: brave",
+            "B: timid",
+            "C: daring",
+            "D: courageous"
+        ]
+    },
+    {
+        "id": 186,
+        "question": "‘Itinerary’ means",
+        "options": [
+            "A: plan of journey",
+            "B: list of items to be discussed in a meeting",
+            "C: list of events a fixed times.",
+            "D: record of events occurred in a day."
+        ]
+    },
+    {
+        "id": 187,
+        "question": "Choose the correct spelling:",
+        "options": [
+            "A: Aukward",
+            "B: Awkword",
+            "C: Akward",
+            "D: Awkword"
+        ]
+    },
+    {
+        "id": 188,
+        "question": "I took a map with me, as I didn’t want to—- my way on the journey.",
+        "options": [
+            "A: loose",
+            "B: lose",
+            "C: lost",
+            "D: least"
+        ]
+    },
+    {
+        "id": 189,
+        "question": "Which of the following phrases means ‘to attack”?",
+        "options": [
+            "A: set in",
+            "B: set off",
+            "C: set upon",
+            "D: set up"
+        ]
+    },
+    {
+        "id": 190,
+        "question": "What is ALL this noise. The word ALL is a/an",
+        "options": [
+            "A: adverb",
+            "B: adjective",
+            "C: noun",
+            "D: pronoun"
+        ]
+    },
+    {
+        "id": 191,
+        "question": "Which of the following word is singular?",
+        "options": [
+            "A: Physics",
+            "B: Roofs",
+            "C: Bushes",
+            "D: Boxes"
+        ]
+    },
+    {
+        "id": 192,
+        "question": "They arrived we _______were watching TV.",
+        "options": [
+            "A: as soon as",
+            "B: while",
+            "C: so that",
+            "D: because"
+        ]
+    },
+    {
+        "id": 193,
+        "question": "Put appropriate Preposition for the sentence below: some writers sink_________oblivion in course of time.",
+        "options": [
+            "A: on",
+            "B: from",
+            "C: under",
+            "D: into"
+        ]
+    },
+    {
+        "id": 194,
+        "question": "She is beautiful but she is _________ her mother.",
+        "options": [
+            "A: most beautiful",
+            "B: less beautiful",
+            "C: as beautiful",
+            "D: not so beautiful as"
+        ]
+    },
+    {
+        "id": 195,
+        "question": "Indentify the correct part of speech of the word underlined in the sentence Whichever of the three sisters you choose to marry, you will have a good wife.",
+        "options": [
+            "A: Adjective of number",
+            "B: Countable noun",
+            "C: Pronoun",
+            "D: Adverb"
+        ]
+    },
+    {
+        "id": 196,
+        "question": "Most likely, this medication is __",
+        "options": [
+            "A: pill",
+            "B: an injection",
+            "C: a lozenge",
+            "D: a liquid"
+        ]
+    },
+    {
+        "id": 197,
+        "question": "How are the children’s dosages determined ?",
+        "options": [
+            "A: By the weight of the child",
+            "B: By the age of the child",
+            "C: By the time of day",
+            "D: By consulting a physician"
+        ]
+    },
+    {
+        "id": 198,
+        "question": "What is the maximum amount of medication that should be taken by an adult in a four- hour period ?",
+        "options": [
+            "A: Two doses",
+            "B: Four doses",
+            "C: Six doses",
+            "D: Eight doses"
+        ]
+    },
+    {
+        "id": 199,
+        "question": "For whom a dosage of two tea-spoonfuls be recommended ?",
+        "options": [
+            "A: A 10- 14 Year old child",
+            "B: A 6- 9 Year old child",
+            "C: A 3- 5 Year old child",
+            "D: An adult"
+        ]
+    },
+    {
+        "id": 200,
+        "question": "Read  the following instructions carefully and reply to the questions in serial No. 30-31 as the preceding three question : Instructions Adults….2 table spoonfuls Childre…..according to age 10-14 years….. 4 tea spoonfuls 6-9 years….. 2 tea spoonfuls 3-5 years….. 1 tea spoonfuls Repeat the above dosage every half hour to I hour if needed until 8 does are take If relief does not occur within two days, consult a physicia Shake well before using. According to instructions, what should you do before taking this medication ?",
+        "options": [
+            "A: Mix it",
+            "B: Heat it",
+            "C: Add water to it",
+            "D: See a doctor"
+        ]
+    },
+    {
+        "id": 201,
+        "question": "the atomic structure of viruses __ .",
+        "options": [
+            "A: is variable",
+            "B: is strictly defined",
+            "C: cannot be analyzed",
+            "D: is more complex than that of bacteria"
+        ]
+    },
+    {
+        "id": 202,
+        "question": "The writer says that viruses are alive because they __ .",
+        "options": [
+            "A: have complex atomic structure",
+            "B: move",
+            "C: Multiply",
+            "D: need warmth and light"
+        ]
+    },
+    {
+        "id": 203,
+        "question": "Read the passage carefully and choose the one best answer (a), (b), (c) or (d) to each question put in serial No. 27-29  The influenza virus is a single molecule composed of millions of individual atoms. While bacteria can be considered as a type of plant, secreting poisonous substance into the body of the organism they attack, viruses, like the influenza virus, are living organisms themselves. We may consider them as regular chemical molecules since they have strictly defined atomic structure: but on the other hand, we must also consider them as being alive since they are able to multiply in unlimited quantities.  According to this passage, bacteria are __ .",
+        "options": [
+            "A: poisons",
+            "B: very small",
+            "C: larger than virus",
+            "D: plants"
+        ]
+    },
+    {
+        "id": 204,
+        "question": "Choose the sentence that is the closest restatement of the given sentence :",
+        "options": [
+            "A: This mask, which dates from the fifth century, is older than any other artifact in the exhibitio",
+            "B: The fifth century mask is older than one of the other artifacts in the exhibitio",
+            "C: The other artifacts in the exhibition are not as old as the fifth century mas",
+            "D: The fifth century mask is not as old as the other artifacts in the exhibitio",
+            "E: The other artifacts in the exhibition are older than the fifth century mas"
+        ]
+    },
+    {
+        "id": 205,
+        "question": "Choose the correct tense ___.",
+        "options": [
+            "A: Scarcely had we start than it began to rain",
+            "B: Scarcely had we started when it began to rain",
+            "C: Scarcely had we started but it started to rain",
+            "D: Scarcely had we been started but it began to rain"
+        ]
+    },
+    {
+        "id": 206,
+        "question": "The word ‘Scattered’ means ___ .",
+        "options": [
+            "A: To throw something any how",
+            "B: To drop something vertically",
+            "C: To arrange something carefully",
+            "D: To spread something sideways"
+        ]
+    },
+    {
+        "id": 207,
+        "question": "Choose the correct pair of words which will complete the sentence.  He was terribly by the ___ of his efforts.",
+        "options": [
+            "A: Delighted Thrills",
+            "B: Upset, Outcome",
+            "C: Intoxicated, Dreams",
+            "D: Activated, Prospects"
+        ]
+    },
+    {
+        "id": 208,
+        "question": "Choose the appropriate meaning of the underlined idioms :  Mawlana Abdul Hamid Khan Bhasani has done Yeoman’s service to the country",
+        "options": [
+            "A: An adventurous service",
+            "B: Render a valuable service",
+            "C: Render an ordinary service",
+            "D: Agitate the people"
+        ]
+    },
+    {
+        "id": 209,
+        "question": "Choose the sentence with the correct agreement of pronouns __",
+        "options": [
+            "A: Rahima kindly helped you me and hi",
+            "B: Rahima kindly helped you, him and me.",
+            "C: Rahim kindly helped me him and you.",
+            "D: Rahima kindly helped him you and me."
+        ]
+    },
+    {
+        "id": 210,
+        "question": "Choose the correctly spelt word __",
+        "options": [
+            "A: Hallucination",
+            "B: Halusination",
+            "C: Halucination",
+            "D: Hallusination"
+        ]
+    },
+    {
+        "id": 211,
+        "question": "Choose the appropriate preposition for the sentence : Graf looked in awesome form as she cruised  ¾ an easy 6-2, 6-1 and 6-1 victory in the final game.",
+        "options": [
+            "A: on",
+            "B: over",
+            "C: in",
+            "D: to"
+        ]
+    },
+    {
+        "id": 212,
+        "question": "Identify the correct sentence __",
+        "options": [
+            "A: e fall down due to his own carelessness.",
+            "B: His fall was due to his own carelessness.",
+            "C: He fell down due to his own fal",
+            "D: He fell down due to the stairs of his won carelessness"
+        ]
+    },
+    {
+        "id": 213,
+        "question": "Indicate the complex sentence __",
+        "options": [
+            "A: Nazma asked some favour of her friends.",
+            "B: Kawsar is such a good man that you can fully rely on him.",
+            "C: Rahim says what he means and he means what he says.",
+            "D: Grief turned his hair gray."
+        ]
+    },
+    {
+        "id": 214,
+        "question": "The antonym for the word ‘resemblance’ is ___",
+        "options": [
+            "A: Identity",
+            "B: Similarity",
+            "C: Difference",
+            "D: Dissembling"
+        ]
+    },
+    {
+        "id": 215,
+        "question": "‘Dog days’ means",
+        "options": [
+            "A: a period of being carefree",
+            "B: a period of having youthful flings",
+            "C: a period of misfortune",
+            "D: hot weather"
+        ]
+    },
+    {
+        "id": 216,
+        "question": "The second anniversary celebration of our college will be held on December, 15. Which of the following is the correct phrase for ‘will be held’ above ?",
+        "options": [
+            "A: Takes off",
+            "B: Comes off",
+            "C: Will bring about",
+            "D: Will come round"
+        ]
+    },
+    {
+        "id": 217,
+        "question": "Now a days many villages are lit __ Electricity. Which is the correct preposition in the above blank ?",
+        "options": [
+            "A: with",
+            "B: by",
+            "C: from",
+            "D: on"
+        ]
+    },
+    {
+        "id": 218,
+        "question": "What is the full name of the great American short story writer O’Henry ?",
+        "options": [
+            "A: Walt Whitman",
+            "B: William Sydney Porter",
+            "C: Marjorie Kinnan Rawlings",
+            "D: Mark Twain"
+        ]
+    },
+    {
+        "id": 219,
+        "question": "Can you tell me where ____?",
+        "options": [
+            "A: does Mr. Ali live",
+            "B: Mr. Ali does live",
+            "C: Mr. Ali lives Lives",
+            "D: Mr. Ali"
+        ]
+    },
+    {
+        "id": 220,
+        "question": "In many ways, riding a bicycle is similar to –",
+        "options": [
+            "A: driving a car",
+            "B: when one drives a car",
+            "C: the driving of a car",
+            "D: when we drive a car"
+        ]
+    },
+    {
+        "id": 221,
+        "question": "The idiom ‘put up with’ means –",
+        "options": [
+            "A: stay togather",
+            "B: tolerate",
+            "C: keep trust",
+            "D: protect"
+        ]
+    },
+    {
+        "id": 222,
+        "question": "‘Such claim needs to be tested empirically’ means –",
+        "options": [
+            "A: The test should be based on assumption",
+            "B: The test should be based on idea",
+            "C: The test should be based on experience",
+            "D: The test should be based on calculation"
+        ]
+    },
+    {
+        "id": 223,
+        "question": "Choose the best translation of ‘কর্তপক্ষ তাকে তিরস্কার করল’ from the alternatives below –",
+        "options": [
+            "A: The authorities criticised him",
+            "B: The authorities took him to book",
+            "C: The authorities gave reins to him",
+            "D: The authorities took him to task"
+        ]
+    },
+    {
+        "id": 224,
+        "question": "The expression ‘take into account’ means–",
+        "options": [
+            "A: count numbers",
+            "B: consider",
+            "C: think seriously",
+            "D: asses"
+        ]
+    },
+    {
+        "id": 225,
+        "question": "If a part of a speech or writing breaks the theme, it is called –",
+        "options": [
+            "A: pomposity",
+            "B: digeression",
+            "C: exaggeration",
+            "D: anti-climax"
+        ]
+    },
+    {
+        "id": 226,
+        "question": "We look forward to ____ a response from you.",
+        "options": [
+            "A: to receiving",
+            "B: to receive",
+            "C: in receiving",
+            "D: for receiving"
+        ]
+    },
+    {
+        "id": 227,
+        "question": "The verb ‘succumb’ means –",
+        "options": [
+            "A: achieve",
+            "B: submit",
+            "C: win",
+            "D: conquer"
+        ]
+    },
+    {
+        "id": 228,
+        "question": "The word ‘officialese’ means –",
+        "options": [
+            "A: plular number of official",
+            "B: language used in offices",
+            "C: plural number of office",
+            "D: vague expression"
+        ]
+    },
+    {
+        "id": 229,
+        "question": "If a person cannot stop taking drugs, he or she is –",
+        "options": [
+            "A: attached to them",
+            "B: committed to them",
+            "C: addicted to them",
+            "D: devoted to them"
+        ]
+    },
+    {
+        "id": 230,
+        "question": "The French refers to –",
+        "options": [
+            "A: the French people",
+            "B: the French language",
+            "C: the French manners",
+            "D: the French society"
+        ]
+    },
+    {
+        "id": 231,
+        "question": "The only error in the sentence, ‘One of the recommendation made by the committee was accepted by the authorities’ is –",
+        "options": [
+            "A: recommendations",
+            "B: was",
+            "C: accepted by",
+            "D: committee"
+        ]
+    },
+    {
+        "id": 232,
+        "question": "Subject – verb agreement refers to –",
+        "options": [
+            "A: person only number",
+            "B: person and gender",
+            "C: Number and person",
+            "D: number only"
+        ]
+    },
+    {
+        "id": 233,
+        "question": "Pick the correct part to fill in the gap of the following sentence:- Each of the sons followed _______ father’s trade.",
+        "options": [
+            "A: their",
+            "B: her",
+            "C: whose",
+            "D: his"
+        ]
+    },
+    {
+        "id": 234,
+        "question": "The word ‘permissive’ implies —",
+        "options": [
+            "A: humble",
+            "B: law-abiding",
+            "C: liberal",
+            "D: submissive"
+        ]
+    },
+    {
+        "id": 235,
+        "question": "Pick the word that is synonymous with ‘authoritarian’",
+        "options": [
+            "A: autocratic",
+            "B: senior",
+            "C: elderly",
+            "D: potential"
+        ]
+    },
+    {
+        "id": 236,
+        "question": "Pass away – means–",
+        "options": [
+            "A: disappear",
+            "B: die",
+            "C: erase",
+            "D: fall"
+        ]
+    },
+    {
+        "id": 237,
+        "question": "‘Call to mind’ means–",
+        "options": [
+            "A: fantasize",
+            "B: attend",
+            "C: remember",
+            "D: request"
+        ]
+    },
+    {
+        "id": 238,
+        "question": "Pick appropriate preposition for the following sentence:– Noureen will discuss the issue with Nasir _______ phone.",
+        "options": [
+            "A: in",
+            "B: over",
+            "C: by",
+            "D: on"
+        ]
+    },
+    {
+        "id": 239,
+        "question": "People who assume that no evil can befall them are foolishly —",
+        "options": [
+            "A: ardent",
+            "B: complacent",
+            "C: confident",
+            "D: apprehensive"
+        ]
+    },
+    {
+        "id": 240,
+        "question": "What kind of man is quite the opposite type of ‘supercilious’ ?",
+        "options": [
+            "A: Affable",
+            "B: Haughty",
+            "C: Disdainful",
+            "D: Wicked"
+        ]
+    },
+    {
+        "id": 241,
+        "question": "How many eggs have your hens this month ? Which of the following words best completes the above sentence?",
+        "options": [
+            "A: lain",
+            "B: laid",
+            "C: lay",
+            "D: leid"
+        ]
+    },
+    {
+        "id": 242,
+        "question": "The walls of our house have been painted ____ green. Which is the correct preposition in the blank above ?",
+        "options": [
+            "A: no preposition",
+            "B: by",
+            "C: in",
+            "D: with"
+        ]
+    },
+    {
+        "id": 243,
+        "question": "Fill in the blinks:Give my___to him.",
+        "options": [
+            "A: warm compliment",
+            "B: compliments",
+            "C: best compliment",
+            "D: heartiest compliment"
+        ]
+    },
+    {
+        "id": 244,
+        "question": "Caesar and Cleopatra is-",
+        "options": [
+            "A: A tragedy by Shakespeare",
+            "B: A play by G.B. shaw",
+            "C: A poem by Lorb Byron",
+            "D: A novel by S.T. Coleridge"
+        ]
+    },
+    {
+        "id": 245,
+        "question": "A speech full of too many words is —",
+        "options": [
+            "A: A big speech",
+            "B: Maiden speech",
+            "C: An unimportant speech",
+            "D: A verbose speech"
+        ]
+    },
+    {
+        "id": 246,
+        "question": "‘To meet trouble half-way’ means:",
+        "options": [
+            "A: To be puzzled",
+            "B: To get nervous",
+            "C: To be disappointed",
+            "D: To bear up"
+        ]
+    },
+    {
+        "id": 247,
+        "question": "‘Paradise Lost’ attempted to —",
+        "options": [
+            "A: Justify the ways of man to God",
+            "B: Justify the ways of God to man",
+            "C: Show that the Satan and God have equal power",
+            "D: Explain why good and evil are necessary"
+        ]
+    },
+    {
+        "id": 248,
+        "question": "What is the meaning of the idiom ‘a round dozen’?",
+        "options": [
+            "A: a little less than a dozen",
+            "B: a little more than a dozen",
+            "C: a full dozen",
+            "D: round about a dozen"
+        ]
+    },
+    {
+        "id": 249,
+        "question": "What is the meaning of ‘soft soap’?",
+        "options": [
+            "A: Flatter for self motives",
+            "B: To speak ill of others",
+            "C: To speak high of others",
+            "D: To recognise other's good deeds"
+        ]
+    },
+    {
+        "id": 250,
+        "question": "Who is the most famous satirist in English literature?",
+        "options": [
+            "A: Alexander Pope",
+            "B: Jonathan Swift",
+            "C: William Wordsworth",
+            "D: Butler"
+        ]
+    },
+    {
+        "id": 251,
+        "question": "What is the synonym of ‘Delude’?",
+        "options": [
+            "A: Demand",
+            "B: Permit",
+            "C: Aggravate",
+            "D: Deceive"
+        ]
+    },
+    {
+        "id": 252,
+        "question": "What is the noun of the Word ‘Waste’?",
+        "options": [
+            "A: Waste",
+            "B: Wasting",
+            "C: Wastage",
+            "D: Wasteful"
+        ]
+    },
+    {
+        "id": 253,
+        "question": "What is the antonym of ‘Queer’?",
+        "options": [
+            "A: Integrated",
+            "B: Orderly",
+            "C: Abnormal",
+            "D: Odd"
+        ]
+    },
+    {
+        "id": 254,
+        "question": "What is the adjective of the word ‘Heart’?",
+        "options": [
+            "A: Heart",
+            "B: Hearten",
+            "C: Heartening",
+            "D: Heartful"
+        ]
+    },
+    {
+        "id": 255,
+        "question": "What is the verb of the word ‘Shortly’?",
+        "options": [
+            "A: Short",
+            "B: Shorter",
+            "C: Shorten",
+            "D: Shortness"
+        ]
+    },
+    {
+        "id": 256,
+        "question": "Choose the correct sentence:",
+        "options": [
+            "A: Let he and you be witnesses",
+            "B: Let you and him be witnesses",
+            "C: Let you and he be witnesses",
+            "D: Let you and he be witness"
+        ]
+    },
+    {
+        "id": 257,
+        "question": "You should show good manners in the company of young ladies. -Which is the appropriate phrase for the underlined expression above?",
+        "options": [
+            "A: behave gently",
+            "B: practise manners",
+            "C: behave yourself",
+            "D: do not talk rudely"
+        ]
+    },
+    {
+        "id": 258,
+        "question": "The invention of computer has turned over a new leaf in the history of modern technology. -Which of the following is nearest in meaning to the italicized idiom above?",
+        "options": [
+            "A: created a new history",
+            "B: began a new chapter",
+            "C: opened a new chapter",
+            "D: created a sensation"
+        ]
+    },
+    {
+        "id": 259,
+        "question": "Trying unitedly we were able to have our project approved against strong oppositions. -Which of the following says nearly the same as against above?",
+        "options": [
+            "A: in the wake of",
+            "B: in the guise of",
+            "C: in the plea of",
+            "D: in the teeth of"
+        ]
+    },
+    {
+        "id": 260,
+        "question": "Not many people can commit such a heinous crime in cold blood. -What does the italicized idiom above mean?",
+        "options": [
+            "A: in cool brain and calculated thought",
+            "B: so patiently and thoughtfully",
+            "C: so impatiently and thoughtlessly",
+            "D: stirred by sudden emothion"
+        ]
+    },
+    {
+        "id": 261,
+        "question": "The condition of most slum dwellers is so miserable that it cannot be described in words. -Which is the best phrase for the underlined expression above?",
+        "options": [
+            "A: beggars description",
+            "B: cuts to the quick",
+            "C: boils down to this",
+            "D: keeps open house"
+        ]
+    },
+    {
+        "id": 262,
+        "question": "Choose the coeerct sentence:..",
+        "options": [
+            "A: The matter was informed to the police",
+            "B: The matter has informed to to the police",
+            "C: The police was informed of the matter",
+            "D: The police were informed of the matter"
+        ]
+    },
+    {
+        "id": 263,
+        "question": "Who,which,what are:",
+        "options": [
+            "A: Demonstrative pronoun",
+            "B: Relative pronoun",
+            "C: Reflexive pronoun",
+            "D: Indefinite pronoun"
+        ]
+    },
+    {
+        "id": 264,
+        "question": "Choose the correct one:",
+        "options": [
+            "A: Mispel",
+            "B: Misspell",
+            "C: Mispell",
+            "D: Misspel"
+        ]
+    },
+    {
+        "id": 265,
+        "question": "Who is the greatest modern English Dramatist?",
+        "options": [
+            "A: Verginia Woolf",
+            "B: George Bemard Shaw",
+            "C: P. B. Shelley",
+            "D: S. T. Coleridge"
+        ]
+    },
+    {
+        "id": 266,
+        "question": "Who is the modern philosopher who was awarded Nobel Prize for literature?",
+        "options": [
+            "A: James Baker",
+            "B: Dr. Kissinger",
+            "C: Bertrand Russel",
+            "D: Lenin"
+        ]
+    },
+    {
+        "id": 267,
+        "question": "Who is the author of ‘A Farewell to Arms’?",
+        "options": [
+            "A: T. S. Eliot",
+            "B: John Milton",
+            "C: Plato",
+            "D: Emest Hemingway"
+        ]
+    },
+    {
+        "id": 268,
+        "question": "what is the meaning of the word ‘stanch’ –",
+        "options": [
+            "A: to reinforce",
+            "B: be weak",
+            "C: smooth out",
+            "D: put an end to"
+        ]
+    },
+    {
+        "id": 269,
+        "question": "What is the meaning of the word ‘belated’ –",
+        "options": [
+            "A: complaining",
+            "B: off hand",
+            "C: weak",
+            "D: tardy"
+        ]
+    },
+    {
+        "id": 270,
+        "question": "what is the meaning of the word ‘sequence’?",
+        "options": [
+            "A: to follow",
+            "B: round up",
+            "C: withdraw",
+            "D: question closely"
+        ]
+    },
+    {
+        "id": 271,
+        "question": "What is the meaning of the word ‘euphemism ‘?",
+        "options": [
+            "A: vague idea",
+            "B: in offensive axpression",
+            "C: verbal play",
+            "D: wise saying"
+        ]
+    },
+    {
+        "id": 272,
+        "question": "‘The Rainbow’ is -.",
+        "options": [
+            "A: a poem by wordsworth",
+            "B: a short story by somerset maugham",
+            "C: a novel by D.H. Lawrence",
+            "D: a verse by coleridge"
+        ]
+    },
+    {
+        "id": 273,
+        "question": "‘Tom Jones’ by Henry Fielding was first published in -.",
+        "options": [
+            "A: the 1st helf of 19th century",
+            "B: the 2nd half of 19th century",
+            "C: the 1st helf of 18th century",
+            "D: the 2nd half of 18th century"
+        ]
+    },
+    {
+        "id": 274,
+        "question": "T.S. Eliot was born in -.",
+        "options": [
+            "A: Ireland",
+            "B: England",
+            "C: Wales",
+            "D: U.S.A"
+        ]
+    },
+    {
+        "id": 275,
+        "question": "Do not worry,English grammar is not_ to understand._ which of the following does best fit in the blank space?",
+        "options": [
+            "A: so difficult",
+            "B: very difficult",
+            "C: too difficult",
+            "D: difficult enough"
+        ]
+    },
+    {
+        "id": 276,
+        "question": "We(not have) a holiday sine the beginning of the year._which of the following verb forms does best complete the above sentence?",
+        "options": [
+            "A: did not have",
+            "B: have not had",
+            "C: are not having",
+            "D: had not had"
+        ]
+    },
+    {
+        "id": 277,
+        "question": "If I were you, I (handle) the situation more carefully._which of the following verb forms does best complete the above sentence?",
+        "options": [
+            "A: would handle",
+            "B: handled",
+            "C: will handle",
+            "D: would have handled"
+        ]
+    },
+    {
+        "id": 278,
+        "question": "It’s time(you, realize) your mistakes._which of the following verb forms does best complete the above sentence?",
+        "options": [
+            "A: you realized",
+            "B: that you realize",
+            "C: you would realize",
+            "D: you have realized"
+        ]
+    },
+    {
+        "id": 279,
+        "question": "What was the real name of the great American short story writer ,’O’ Henry?",
+        "options": [
+            "A: Samuel L clemens",
+            "B: William sydney porter",
+            "C: Fitz-james O'Brien huntingt",
+            "D: William huntington wright"
+        ]
+    },
+    {
+        "id": 280,
+        "question": "Anything ‘pernicious’ tends to injure or destroy.something which has no such harmful effect is -.",
+        "options": [
+            "A: innocuous",
+            "B: innocent",
+            "C: immaculate",
+            "D: salutary"
+        ]
+    },
+    {
+        "id": 281,
+        "question": "We have recently entered-an agreement with Inland co-operative society?_which of the following does best fit in the blank space?",
+        "options": [
+            "A: no preposition",
+            "B: upon",
+            "C: in",
+            "D: into"
+        ]
+    },
+    {
+        "id": 282,
+        "question": "The boy from the village said,”I_starve then beg”.-which of the following deist completed the above sentence?",
+        "options": [
+            "A: better",
+            "B: rather",
+            "C: would rather",
+            "D: would better"
+        ]
+    },
+    {
+        "id": 283,
+        "question": "It is too difficult to tolerate bad temper for long._which of the following phrases does best replace ‘tolerate’ in the above sentence?",
+        "options": [
+            "A: cope up with",
+            "B: put up with",
+            "C: stand up for",
+            "D: pull on with"
+        ]
+    },
+    {
+        "id": 284,
+        "question": "I have never seen such a slow coach lick you,this small work has taken you three full month. _what does the idiom ‘a slow coach’ mean?",
+        "options": [
+            "A: an irresponsible person",
+            "B: a careless person",
+            "C: an unthougtful person",
+            "D: a very lazy person"
+        ]
+    },
+    {
+        "id": 285,
+        "question": "select the answer of the word ‘stagflation’ –",
+        "options": [
+            "A: controlled prices",
+            "B: economic slow down",
+            "C: a disintegrating government",
+            "D: cultural dullness"
+        ]
+    },
+    {
+        "id": 286,
+        "question": "what is the meaning of the word ‘scuttle’ –",
+        "options": [
+            "A: to tease",
+            "B: abandon",
+            "C: pile up",
+            "D: gossip"
+        ]
+    },
+    {
+        "id": 287,
+        "question": "What is the antonym of ‘Honorary’?",
+        "options": [
+            "A: literary",
+            "B: honorable",
+            "C: salaried",
+            "D: official"
+        ]
+    },
+    {
+        "id": 288,
+        "question": "What is the verb of the word ‘Ability’?",
+        "options": [
+            "A: ableness",
+            "B: enable",
+            "C: ably",
+            "D: able"
+        ]
+    },
+    {
+        "id": 289,
+        "question": "Who is the author of ‘For whom the bell tolls’?",
+        "options": [
+            "A: Lord tennison",
+            "B: Homer",
+            "C: Charles dickens",
+            "D: Emest hemingway"
+        ]
+    },
+    {
+        "id": 290,
+        "question": "Who is the author of ‘Victorian Age’?",
+        "options": [
+            "A: Mathew arnold",
+            "B: Helen keller",
+            "C: Shakespeare",
+            "D: Robert browning"
+        ]
+    },
+    {
+        "id": 291,
+        "question": "‘Hold water’ means :",
+        "options": [
+            "A: keep water",
+            "B: store water",
+            "C: bear examination",
+            "D: drink water"
+        ]
+    },
+    {
+        "id": 292,
+        "question": "‘Out and out’ means :",
+        "options": [
+            "A: not at all",
+            "B: man of outside",
+            "C: to be last",
+            "D: thoroughly"
+        ]
+    },
+    {
+        "id": 293,
+        "question": "Justice delayed is justice denied’ was stated by _____.",
+        "options": [
+            "A: Shakespeare",
+            "B: Disraeli",
+            "C: Emersson",
+            "D: Gladstone"
+        ]
+    },
+    {
+        "id": 294,
+        "question": "‘Syntax’ means :?",
+        "options": [
+            "A: Supplementary tax",
+            "B: Sentence building",
+            "C: Manner of speech",
+            "D: Synchronizing act"
+        ]
+    },
+    {
+        "id": 295,
+        "question": "Choose the correct sentence.:",
+        "options": [
+            "A: He was hunged for murder",
+            "B: He has been hunged for murder",
+            "C: He was hung for murder",
+            "D: He had been hunged for murder"
+        ]
+    },
+    {
+        "id": 296,
+        "question": "Choose the correct sentence:",
+        "options": [
+            "A: The rich is not always happy",
+            "B: Rich is not always happy",
+            "C: The rich is not happy always",
+            "D: The rich are not always happy"
+        ]
+    },
+    {
+        "id": 297,
+        "question": "What is the synonym of ‘Incite’?",
+        "options": [
+            "A: Urge",
+            "B: Permit",
+            "C: Instigate",
+            "D: Deceive"
+        ]
+    },
+    {
+        "id": 298,
+        "question": "What is the antonym of ‘Honorary’?",
+        "options": [
+            "A: literary",
+            "B: honorable",
+            "C: salaried",
+            "D: official"
+        ]
+    },
+    {
+        "id": 299,
+        "question": "What is the verb of the word ‘Ability’?",
+        "options": [
+            "A: ableness",
+            "B: enable",
+            "C: ably",
+            "D: able"
+        ]
+    },
+    {
+        "id": 300,
+        "question": "Who is the author of ‘Victorian Age’?",
+        "options": [
+            "A: Mathew arnold",
+            "B: Helen keller",
+            "C: Shakespeare",
+            "D: Robert browning"
+        ]
+    },
+    {
+        "id": 301,
+        "question": "Who is the author of ‘For whom the bell tolls’?",
+        "options": [
+            "A: Lord tennison",
+            "B: Homer",
+            "C: Charles dickens",
+            "D: Emest hemingway"
+        ]
+    },
+    {
+        "id": 302,
+        "question": "Fill in the blanks: he has assured me _____safety.",
+        "options": [
+            "A: with",
+            "B: of",
+            "C: for",
+            "D: at"
+        ]
+    },
+    {
+        "id": 303,
+        "question": "‘May Allah help you’ what kind of sentence is this?",
+        "options": [
+            "A: assertive",
+            "B: imperative",
+            "C: optative",
+            "D: exclamatory"
+        ]
+    },
+    {
+        "id": 304,
+        "question": "A rolling stone gathers no moss. what ‘Rolling’ is?",
+        "options": [
+            "A: gerund",
+            "B: participle",
+            "C: verbal noun",
+            "D: adjective"
+        ]
+    },
+    {
+        "id": 305,
+        "question": "He has been ill___ Friday last. fill in the blanks.",
+        "options": [
+            "A: in",
+            "B: since",
+            "C: from",
+            "D: on"
+        ]
+    },
+    {
+        "id": 306,
+        "question": "Which is the noun of the word ‘beautiful’?",
+        "options": [
+            "A: beautify",
+            "B: beauty",
+            "C: beautifully",
+            "D: beautious"
+        ]
+    },
+    {
+        "id": 307,
+        "question": "‘Hold water’ means :",
+        "options": [
+            "A: keep water",
+            "B: store water",
+            "C: bear examination",
+            "D: drink water"
+        ]
+    },
+    {
+        "id": 308,
+        "question": "‘Out and out’ means :",
+        "options": [
+            "A: not at all",
+            "B: man of outside",
+            "C: to be last",
+            "D: thoroughly"
+        ]
+    },
+    {
+        "id": 309,
+        "question": "Justice delayed is justice denied was stated by _____.",
+        "options": [
+            "A: Shakespeare",
+            "B: Disraeli",
+            "C: Emersson",
+            "D: Gladstone"
+        ]
+    },
+    {
+        "id": 310,
+        "question": "‘Syntax’ means :?",
+        "options": [
+            "A: Supplementary tax",
+            "B: Sentence building",
+            "C: Manner of speech",
+            "D: Synchronizing act"
+        ]
+    },
+    {
+        "id": 311,
+        "question": "Who is the author of ‘For whom the bell tolls’?",
+        "options": [
+            "A: Lord tennison",
+            "B: Homer",
+            "C: Charles dickens",
+            "D: Emest hemingway"
+        ]
+    },
+    {
+        "id": 312,
+        "question": "Fill in the blanks: he has assured me _____safety.",
+        "options": [
+            "A: with",
+            "B: of",
+            "C: for",
+            "D: at"
+        ]
+    },
+    {
+        "id": 313,
+        "question": "‘May Allah help you’ what kind of sentence is this?",
+        "options": [
+            "A: assertive",
+            "B: imperative",
+            "C: optative",
+            "D: exclamatory"
+        ]
+    },
+    {
+        "id": 314,
+        "question": "A rolling stone gathers no moss. what ‘Rolling’ is?",
+        "options": [
+            "A: gerund",
+            "B: participle",
+            "C: verbal noun",
+            "D: adjective"
+        ]
+    },
+    {
+        "id": 315,
+        "question": "He has been ill___ Friday last. fill in the blanks.",
+        "options": [
+            "A: in",
+            "B: since",
+            "C: from",
+            "D: on"
+        ]
+    },
+    {
+        "id": 316,
+        "question": "Which is the noun of the word ‘beautiful’?",
+        "options": [
+            "A: beautify",
+            "B: beauty",
+            "C: beautifully",
+            "D: beautious"
+        ]
+    },
+    {
+        "id": 317,
+        "question": "‘Hold water’ means :",
+        "options": [
+            "A: keep water",
+            "B: store water",
+            "C: bear examination",
+            "D: drink water"
+        ]
+    },
+    {
+        "id": 318,
+        "question": "‘Out and out’ means :",
+        "options": [
+            "A: not at all",
+            "B: man of outside",
+            "C: to be last",
+            "D: thoroughly"
+        ]
+    },
+    {
+        "id": 319,
+        "question": "Justice delayed is justice denied was stated by _____.",
+        "options": [
+            "A: Shakespeare",
+            "B: Disraeli",
+            "C: Emersson",
+            "D: Gladstone"
+        ]
+    },
+    {
+        "id": 320,
+        "question": "‘Syntax’ means :?",
+        "options": [
+            "A: Supplementary tax",
+            "B: Sentence building",
+            "C: Manner of speech",
+            "D: Synchronizing act"
+        ]
+    },
+    {
+        "id": 321,
+        "question": "Choose the correct sentence:",
+        "options": [
+            "A: He was hunged for murder",
+            "B: He has been hunged for murder",
+            "C: He was hung for murder",
+            "D: He had been hunged for murder"
+        ]
+    },
+    {
+        "id": 322,
+        "question": "What is the synonym of ‘Incite’?",
+        "options": [
+            "A: Urge",
+            "B: Permit",
+            "C: Instigate",
+            "D: Deceive"
+        ]
+    },
+    {
+        "id": 323,
+        "question": "Into the——of death rode the six hundred",
+        "options": [
+            "A: City",
+            "B: Tunnel",
+            "C: Road",
+            "D: Valley"
+        ]
+    },
+    {
+        "id": 324,
+        "question": "To be or not to be that is the ———–",
+        "options": [
+            "A: Meaning",
+            "B: Question",
+            "C: Answer",
+            "D: Issue"
+        ]
+    },
+    {
+        "id": 325,
+        "question": "“I have a —-that one day this nation will live out the true meaning of its creed that all men are created equal”",
+        "options": [
+            "A: desire",
+            "B: hope",
+            "C: dream",
+            "D: wish"
+        ]
+    },
+    {
+        "id": 326,
+        "question": "Who wrote the famous novels ‘David Copperfield’ and ‘The tale of two cities’?",
+        "options": [
+            "A: Thomas hardy",
+            "B: Jane austen",
+            "C: Geroge eliot",
+            "D: Charles dickens"
+        ]
+    },
+    {
+        "id": 327,
+        "question": "What would happened if_______?",
+        "options": [
+            "A: the bridge is broken.",
+            "B: the would bridge break.",
+            "C: the bridge had broken.",
+            "D: the bridge had been broken."
+        ]
+    },
+    {
+        "id": 328,
+        "question": "Water boils _____you heat it at 100 degree centigrade.",
+        "options": [
+            "A: if",
+            "B: unless",
+            "C: until",
+            "D: although"
+        ]
+    },
+    {
+        "id": 329,
+        "question": "Give me a telephone number to ring ____I get lost.",
+        "options": [
+            "A: unless",
+            "B: in case",
+            "C: perhaps",
+            "D: whether"
+        ]
+    },
+    {
+        "id": 330,
+        "question": "Choose the correct form ( passive) of “who will do the work?”",
+        "options": [
+            "A: Who will be done the work?",
+            "B: Who will done the work?",
+            "C: by whom will the work be done?",
+            "D: Whom will the work be done?"
+        ]
+    },
+    {
+        "id": 331,
+        "question": "Which word is not an adjective?",
+        "options": [
+            "A: Solar",
+            "B: Polar",
+            "C: Hammer",
+            "D: Linear"
+        ]
+    },
+    {
+        "id": 332,
+        "question": "Select the right from of the verb in the sentence. We often___ a victim of circumstances.",
+        "options": [
+            "A: fallen",
+            "B: felt",
+            "C: did fall",
+            "D: fall"
+        ]
+    },
+    {
+        "id": 333,
+        "question": "which is the noun of the word “beautiful”?",
+        "options": [
+            "A: Beauty",
+            "B: Beautify",
+            "C: Beauteous",
+            "D: Beautifully"
+        ]
+    },
+    {
+        "id": 334,
+        "question": "What is the antonym of ‘Fabrication’?",
+        "options": [
+            "A: hallucination",
+            "B: allegory",
+            "C: fact",
+            "D: accomplishment"
+        ]
+    },
+    {
+        "id": 335,
+        "question": "‘The day of my sister’s marriage is drawing near. The underlined word is a/ an__.",
+        "options": [
+            "A: adjective",
+            "B: verb",
+            "C: preposition",
+            "D: adverb"
+        ]
+    },
+    {
+        "id": 336,
+        "question": "The word ‘inauguration’ means nearly the same as—",
+        "options": [
+            "A: A special ceremony",
+            "B: An opening ceremony",
+            "C: Acceptance",
+            "D: Starting speech"
+        ]
+    },
+    {
+        "id": 337,
+        "question": "T. S. Eliot is a __ poet.",
+        "options": [
+            "A: romantic",
+            "B: Victorian",
+            "C: modern",
+            "D: past_ modern"
+        ]
+    },
+    {
+        "id": 338,
+        "question": "Our sweetest songs are those that tell of___",
+        "options": [
+            "A: romantic love",
+            "B: saddest thought",
+            "C: patriotic feeling",
+            "D: heroic tales"
+        ]
+    },
+    {
+        "id": 339,
+        "question": "‘Pass for’ means",
+        "options": [
+            "A: appear to be",
+            "B: allow",
+            "C: brush aside",
+            "D: qualify"
+        ]
+    },
+    {
+        "id": 340,
+        "question": "‘Bill of fare’ is____",
+        "options": [
+            "A: A chart of bus fare",
+            "B: A price list",
+            "C: A vatuasle documant",
+            "D: Lisk of dishes in a restauran"
+        ]
+    },
+    {
+        "id": 341,
+        "question": "The sentence with correct punctuation’s___",
+        "options": [
+            "A: Maria, my student is on leave today",
+            "B: Maria my student, is on leave today",
+            "C: Maria my student is on leave today",
+            "D: Maria, my student, is on leave today"
+        ]
+    },
+    {
+        "id": 342,
+        "question": "They have ____ their support for our case.",
+        "options": [
+            "A: Pledged",
+            "B: Disavowed",
+            "C: Provided",
+            "D: Deferred"
+        ]
+    },
+    {
+        "id": 343,
+        "question": "Choose the correct sentence.",
+        "options": [
+            "A: I have looked for a good doctor before I met you",
+            "B: I had looked for a good doctor before I met you",
+            "C: I looked for a good doctor before I had met you",
+            "D: I am looking for a good doctor before meeting you"
+        ]
+    },
+    {
+        "id": 344,
+        "question": "Bangladesh was liberated _ 1971.",
+        "options": [
+            "A: on",
+            "B: in",
+            "C: at",
+            "D: of"
+        ]
+    },
+    {
+        "id": 345,
+        "question": "The correct spelling is __",
+        "options": [
+            "A: Beaurocrat",
+            "B: Burocrat",
+            "C: Bureaucrat",
+            "D: Buroucrat"
+        ]
+    },
+    {
+        "id": 346,
+        "question": "Choose the correct spelling.",
+        "options": [
+            "A: Ascertain",
+            "B: Assertain",
+            "C: Aseratin",
+            "D: Asartain"
+        ]
+    },
+    {
+        "id": 347,
+        "question": "We ( to write ) in the examination hall.",
+        "options": [
+            "A: writing",
+            "B: write",
+            "C: is writing",
+            "D: to write"
+        ]
+    },
+    {
+        "id": 348,
+        "question": "The antonym of the word ‘Resemblance’ is —",
+        "options": [
+            "A: Identity",
+            "B: Similarity",
+            "C: Difference",
+            "D: Dissembling"
+        ]
+    },
+    {
+        "id": 349,
+        "question": "The antonym of ‘Antithesis’_",
+        "options": [
+            "A: acceleration",
+            "B: similarity",
+            "C: maxim",
+            "D: velocity"
+        ]
+    },
+    {
+        "id": 350,
+        "question": "Choose the correct spelling.",
+        "options": [
+            "A: Ascertain",
+            "B: Assertain",
+            "C: Aseratin",
+            "D: Asartain"
+        ]
+    },
+    {
+        "id": 351,
+        "question": "Ruminant means:",
+        "options": [
+            "A: Cub- chewing animal",
+            "B: Soup",
+            "C: Gossip",
+            "D: Noise maker"
+        ]
+    },
+    {
+        "id": 352,
+        "question": "Dire : Grim",
+        "options": [
+            "A: punitive : miniature",
+            "B: acknowledgment : gossip",
+            "C: diabolic : wicked",
+            "D: pencil : lead"
+        ]
+    },
+    {
+        "id": 353,
+        "question": "Coward : Brave",
+        "options": [
+            "A: Hesitate : Uncertain",
+            "B: Vacation : Holiday",
+            "C: Hedonist : Pleasure loving",
+            "D: Break : Restore"
+        ]
+    },
+    {
+        "id": 354,
+        "question": "Which one is the correct sentence?",
+        "options": [
+            "A: He said that the Earth goes roundthe sun",
+            "B: He said that the Earth went round the sun",
+            "C: He said that the Earth had gone round the sun",
+            "D: He said that the Earth had been going round the sun"
+        ]
+    },
+    {
+        "id": 355,
+        "question": "His hobby is gardening the underlined word is__",
+        "options": [
+            "A: Noun",
+            "B: Pronoun",
+            "C: Adjective",
+            "D: Verb"
+        ]
+    },
+    {
+        "id": 356,
+        "question": "Neither rini nor simi ————qualified for the job",
+        "options": [
+            "A: Are",
+            "B: is",
+            "C: Were",
+            "D: had"
+        ]
+    },
+    {
+        "id": 357,
+        "question": "We must keep our fingers ___ that the weather will stay fine for the picnic tomorrow.",
+        "options": [
+            "A: Raised",
+            "B: Pointed",
+            "C: Lifted",
+            "D: Cressed (crossed)"
+        ]
+    },
+    {
+        "id": 358,
+        "question": "Who riot ‘Beauty is truth, truth is beauty?",
+        "options": [
+            "A: Shakespeare",
+            "B: Wordsworth",
+            "C: Keats",
+            "D: Eliot"
+        ]
+    },
+    {
+        "id": 359,
+        "question": "” Blow, blow thou winter wind Thou art not so unkind As man;s ingratitude; Thy tooth is not so keen Because thou art not seen, Although thy breath be rude.” These are a few lines of a poem of a great poet. Who is the poet?",
+        "options": [
+            "A: J. Webster",
+            "B: C. Marlowe",
+            "C: W. Shakespeare",
+            "D: Lord Bacon"
+        ]
+    },
+    {
+        "id": 360,
+        "question": "Most of the earth\\’s surface (cover) by water",
+        "options": [
+            "A: is covered",
+            "B: was covered",
+            "C: covered",
+            "D: were covered"
+        ]
+    },
+    {
+        "id": 361,
+        "question": "‘Who is calling me?’The best passive from is:",
+        "options": [
+            "A: By whom I am called?",
+            "B: By whom I am being called?",
+            "C: By whom am i being called?",
+            "D: By whom have I been called?"
+        ]
+    },
+    {
+        "id": 362,
+        "question": "The antonym of ‘indifference’ is _____",
+        "options": [
+            "A: Ardour",
+            "B: Compassion",
+            "C: Anxiety",
+            "D: Concern"
+        ]
+    },
+    {
+        "id": 363,
+        "question": "All at once means__",
+        "options": [
+            "A: Quickly",
+            "B: Slowly",
+            "C: Suddenly",
+            "D: Gradually"
+        ]
+    },
+    {
+        "id": 364,
+        "question": "Fill in the blanks ‘He has assured me ___ safety?",
+        "options": [
+            "A: with",
+            "B: of",
+            "C: in",
+            "D: to"
+        ]
+    },
+    {
+        "id": 365,
+        "question": "He objects ____ having to go to many parties.",
+        "options": [
+            "A: for",
+            "B: aganist",
+            "C: from",
+            "D: to"
+        ]
+    },
+    {
+        "id": 366,
+        "question": "What is the synonym of “Embellish”?",
+        "options": [
+            "A: defame",
+            "B: sustain",
+            "C: decorate",
+            "D: Enthusiasm"
+        ]
+    },
+    {
+        "id": 367,
+        "question": "What is the synonym of ‘Disappear’?",
+        "options": [
+            "A: Appear",
+            "B: Emerge",
+            "C: Disappoint",
+            "D: Evaporate"
+        ]
+    },
+    {
+        "id": 368,
+        "question": "“How dare you wake me up?” The lion roared at the mouse. Choose the correct narration.",
+        "options": [
+            "A: The lion roared and said to the mouse why he wake him up",
+            "B: The lion said the mouse why it got him up",
+            "C: The Lion question the mouse about his awaking",
+            "D: The lion roared and asked the mouse how it dared to wakw him up"
+        ]
+    },
+    {
+        "id": 369,
+        "question": "It ___ training since Monday",
+        "options": [
+            "A: is",
+            "B: had been",
+            "C: has been",
+            "D: was"
+        ]
+    },
+    {
+        "id": 370,
+        "question": "The adverb from of the word ‘hert’ is—",
+        "options": [
+            "A: heartily",
+            "B: hearty",
+            "C: heartening",
+            "D: heartened"
+        ]
+    },
+    {
+        "id": 371,
+        "question": "‘Red letter day’ means –",
+        "options": [
+            "A: Day marked with red letter",
+            "B: Holiday",
+            "C: Iporant and memorable day",
+            "D: Birthday"
+        ]
+    },
+    {
+        "id": 372,
+        "question": "The river has — its banks.",
+        "options": [
+            "A: overflown",
+            "B: overflowed",
+            "C: overloaded",
+            "D: overflew"
+        ]
+    },
+    {
+        "id": 373,
+        "question": "I have shut the door lest a thief—- enter into my room",
+        "options": [
+            "A: could",
+            "B: would",
+            "C: may",
+            "D: should"
+        ]
+    },
+    {
+        "id": 374,
+        "question": "On the night before the exam she was seen poring __ the books.",
+        "options": [
+            "A: into",
+            "B: over",
+            "C: in",
+            "D: through"
+        ]
+    },
+    {
+        "id": 375,
+        "question": "I was angry ___ the results.",
+        "options": [
+            "A: with",
+            "B: at",
+            "C: of",
+            "D: for"
+        ]
+    },
+    {
+        "id": 376,
+        "question": "your work is ___ important than your games.",
+        "options": [
+            "A: very",
+            "B: too",
+            "C: more",
+            "D: most"
+        ]
+    },
+    {
+        "id": 377,
+        "question": "I ___ a picture do you like it ?",
+        "options": [
+            "A: just draw",
+            "B: just drew",
+            "C: just have drew",
+            "D: have just draw"
+        ]
+    },
+    {
+        "id": 378,
+        "question": "SILO:CORN",
+        "options": [
+            "A: acre:wheat",
+            "B: mill:grain",
+            "C: reservoir:water",
+            "D: paddy:rice"
+        ]
+    },
+    {
+        "id": 379,
+        "question": "UNEMPLOYED:WORKER",
+        "options": [
+            "A: unknown:aritist",
+            "B: fallow:field",
+            "C: repair:house",
+            "D: observant:spectator"
+        ]
+    },
+    {
+        "id": 380,
+        "question": "FISH:SCALES",
+        "options": [
+            "A: plane:wings",
+            "B: bird:feathers",
+            "C: cat:claws",
+            "D: song:notes"
+        ]
+    },
+    {
+        "id": 381,
+        "question": "VACCINE:PREVENT",
+        "options": [
+            "A: wound:heal",
+            "B: victim:attend",
+            "C: antidote:counteract",
+            "D: antiseptic:infeet"
+        ]
+    },
+    {
+        "id": 382,
+        "question": "VESSEL:FLEET",
+        "options": [
+            "A: wolf:pack",
+            "B: forest:clearing",
+            "C: vehicle:truck",
+            "D: squadrom:rank"
+        ]
+    },
+    {
+        "id": 383,
+        "question": "CLOCK:TIME",
+        "options": [
+            "A: watch:wrist",
+            "B: odometer:speed",
+            "C: hourglass:sand",
+            "D: yardstick:distance"
+        ]
+    },
+    {
+        "id": 384,
+        "question": "DOG:MAMMAL",
+        "options": [
+            "A: wolf:pack",
+            "B: tree:forest",
+            "C: inscet:antenna",
+            "D: snake:repitle"
+        ]
+    },
+    {
+        "id": 385,
+        "question": "MUTTON:GOAT",
+        "options": [
+            "A: bleat:lamb",
+            "B: sow:pig",
+            "C: hide:buffalo",
+            "D: beef:cow"
+        ]
+    },
+    {
+        "id": 386,
+        "question": "which of the following is not an adjective ?",
+        "options": [
+            "A: humble",
+            "B: humane",
+            "C: humid",
+            "D: humor"
+        ]
+    },
+    {
+        "id": 387,
+        "question": "The word fast in the sentence \\”the deadline was fast approaching is a/an :",
+        "options": [
+            "A: verb",
+            "B: noun",
+            "C: adjective",
+            "D: adverb"
+        ]
+    },
+    {
+        "id": 388,
+        "question": "Be true ….. your word.",
+        "options": [
+            "A: away",
+            "B: to",
+            "C: in",
+            "D: to"
+        ]
+    },
+    {
+        "id": 389,
+        "question": "Plebiscite is a term related to-",
+        "options": [
+            "A: Medicine",
+            "B: Law",
+            "C: Politics",
+            "D: Technology"
+        ]
+    },
+    {
+        "id": 390,
+        "question": "Which one is not the synonym of the word ‘Illicit’ ?",
+        "options": [
+            "A: Unlawful",
+            "B: Illegal",
+            "C: Lawful",
+            "D: Prohibited"
+        ]
+    },
+    {
+        "id": 391,
+        "question": "Choose the opposite word of “Messy”",
+        "options": [
+            "A: Tidy",
+            "B: Artful",
+            "C: Original",
+            "D: Obedient"
+        ]
+    },
+    {
+        "id": 392,
+        "question": "The correct antonym of “Abstain” is –",
+        "options": [
+            "A: Release",
+            "B: Adjure",
+            "C: Divulge",
+            "D: Indulge"
+        ]
+    },
+    {
+        "id": 393,
+        "question": "You surprised me that you are not sensible …… the matter.",
+        "options": [
+            "A: to",
+            "B: in",
+            "C: of",
+            "D: at"
+        ]
+    },
+    {
+        "id": 394,
+        "question": "Which one indicates “sacrifice” ?",
+        "options": [
+            "A: Die for",
+            "B: Die by",
+            "C: Die in",
+            "D: Die of"
+        ]
+    },
+    {
+        "id": 395,
+        "question": "What is the verb of the word ‘compliance’ ?",
+        "options": [
+            "A: Complicate",
+            "B: Complied",
+            "C: Comply",
+            "D: Complete"
+        ]
+    },
+    {
+        "id": 396,
+        "question": "“He was poor, so they helped him” in this sentence so is-",
+        "options": [
+            "A: Adjective",
+            "B: Conjunction",
+            "C: Noun",
+            "D: Adverb"
+        ]
+    },
+    {
+        "id": 397,
+        "question": "The phrase, ‘Flare up’ means …",
+        "options": [
+            "A: to get angry",
+            "B: to gain weight",
+            "C: to increase in confidence",
+            "D: to walk fast"
+        ]
+    },
+    {
+        "id": 398,
+        "question": "“Notoriously” is used as:",
+        "options": [
+            "A: an adverb",
+            "B: a noun",
+            "C: an adjective",
+            "D: gerund"
+        ]
+    },
+    {
+        "id": 399,
+        "question": "In ‘The Solitary Reaper’ what does the word solitary means?",
+        "options": [
+            "A: Unhappy",
+            "B: Humble",
+            "C: Busy",
+            "D: Lonely"
+        ]
+    },
+    {
+        "id": 400,
+        "question": "Which one is the antonym ‘pacific’ ?",
+        "options": [
+            "A: calm",
+            "B: courageous",
+            "C: zealous",
+            "D: agitated"
+        ]
+    },
+    {
+        "id": 401,
+        "question": "Choose the correct sentence-",
+        "options": [
+            "A: I have a little friends in Bangladesh",
+            "B: I have little friends in Bangladesh",
+            "C: I have few friends in Bangladesh",
+            "D: I have a few friends in Bangladesh"
+        ]
+    },
+    {
+        "id": 402,
+        "question": "Noun of the word ‘poor’ is –",
+        "options": [
+            "A: Poorify",
+            "B: Poority",
+            "C: Poorness",
+            "D: Poverty"
+        ]
+    },
+    {
+        "id": 403,
+        "question": "‘Pros and cons’ means-",
+        "options": [
+            "A: Advantage and disadvantage",
+            "B: Merits and demerits",
+            "C: Good and bad",
+            "D: All"
+        ]
+    },
+    {
+        "id": 404,
+        "question": "What is the verb of the word ‘Shortly’ ?",
+        "options": [
+            "A: Short",
+            "B: Shorten",
+            "C: Shorter",
+            "D: Shortness"
+        ]
+    },
+    {
+        "id": 405,
+        "question": "The synonym of the word ‘Encounter’ is-",
+        "options": [
+            "A: Concord",
+            "B: Harmony",
+            "C: Battle",
+            "D: Part"
+        ]
+    },
+    {
+        "id": 406,
+        "question": "What is the meaning of the phrase ‘come into force’ ?",
+        "options": [
+            "A: Make effective",
+            "B: Perplexity",
+            "C: Rebuke",
+            "D: Utter an obscence word"
+        ]
+    },
+    {
+        "id": 407,
+        "question": "Let me do the sum. বাক্যটির passive voice কোনটি ?",
+        "options": [
+            "A: Let the sum is to be done by me.",
+            "B: Let the sum done by me.",
+            "C: Let the sum being done by me.",
+            "D: Let the sum be done by me."
+        ]
+    },
+    {
+        "id": 408,
+        "question": "Which one is correct ?",
+        "options": [
+            "A: I forbid him not to go.",
+            "B: I forbid him going.",
+            "C: I forbid him to go.",
+            "D: I forbid him from going."
+        ]
+    },
+    {
+        "id": 409,
+        "question": "I shall adhere — my plan",
+        "options": [
+            "A: on",
+            "B: about",
+            "C: for",
+            "D: to"
+        ]
+    },
+    {
+        "id": 410,
+        "question": "O.M.R.-",
+        "options": [
+            "A: Optical Mark Reader",
+            "B: Optical Memory Reader",
+            "C: Optical Modem Reader",
+            "D: Read Only Memory."
+        ]
+    },
+    {
+        "id": 411,
+        "question": "Where do you put — ?",
+        "options": [
+            "A: on",
+            "B: it",
+            "C: out",
+            "D: up"
+        ]
+    },
+    {
+        "id": 412,
+        "question": "Starvation stared us — the face.",
+        "options": [
+            "A: in",
+            "B: at",
+            "C: for",
+            "D: to"
+        ]
+    },
+    {
+        "id": 413,
+        "question": "He is deaf — my request. Fill in the blank.",
+        "options": [
+            "A: of",
+            "B: on",
+            "C: to",
+            "D: in"
+        ]
+    },
+    {
+        "id": 414,
+        "question": "‘Hold water’ means–",
+        "options": [
+            "A: Keep water",
+            "B: Drink water",
+            "C: Bear examination",
+            "D: Store water"
+        ]
+    },
+    {
+        "id": 415,
+        "question": "The word ‘propitious’ is–",
+        "options": [
+            "A: a noun",
+            "B: a verb",
+            "C: an adjective",
+            "D: ",
+            "E: an adverb"
+        ]
+    },
+    {
+        "id": 416,
+        "question": "Get the picture — in your room.",
+        "options": [
+            "A: fastened",
+            "B: hanged",
+            "C: put",
+            "D: hung"
+        ]
+    },
+    {
+        "id": 417,
+        "question": "‘All agog’ means —",
+        "options": [
+            "A: very interested",
+            "B: enthusiastic",
+            "C: indulged",
+            "D: involved"
+        ]
+    },
+    {
+        "id": 418,
+        "question": "He forced —- difficulties.",
+        "options": [
+            "A: in",
+            "B: with",
+            "C: of",
+            "D: by"
+        ]
+    },
+    {
+        "id": 419,
+        "question": "‘put up with’ means —",
+        "options": [
+            "A: be patient",
+            "B: complain",
+            "C: tolerate",
+            "D: hate"
+        ]
+    },
+    {
+        "id": 420,
+        "question": "Which one is reflexive pronoun ?",
+        "options": [
+            "A: who",
+            "B: he",
+            "C: each",
+            "D: myself"
+        ]
+    },
+    {
+        "id": 421,
+        "question": "Which one is common gender ?",
+        "options": [
+            "A: Baby",
+            "B: Girl",
+            "C: Man",
+            "D: Boy"
+        ]
+    },
+    {
+        "id": 422,
+        "question": "What is the time — your watch ?",
+        "options": [
+            "A: by",
+            "B: in",
+            "C: to",
+            "D: of"
+        ]
+    },
+    {
+        "id": 423,
+        "question": "‘At daggers drawn’ means-",
+        "options": [
+            "A: is disorderly",
+            "B: at a standstill",
+            "C: on the point of fighting",
+            "D: on embreaching point"
+        ]
+    },
+    {
+        "id": 424,
+        "question": "Internal bleeding is often hard to detect and usually is the result of perforation is some organ choose correct meaning of ‘perforation’.",
+        "options": [
+            "A: ninishment",
+            "B: deromity",
+            "C: malfunction",
+            "D: puncture"
+        ]
+    },
+    {
+        "id": 425,
+        "question": "The tree has been blown – by the strong kind.",
+        "options": [
+            "A: away",
+            "B: up",
+            "C: off",
+            "D: out"
+        ]
+    },
+    {
+        "id": 426,
+        "question": "Choose the correct word. Selim is absent because he – a cold.",
+        "options": [
+            "A: should do",
+            "B: is doing",
+            "C: have",
+            "D: is having"
+        ]
+    },
+    {
+        "id": 427,
+        "question": "‘Ad Hoc’ is a – word.",
+        "options": [
+            "A: French",
+            "B: German",
+            "C: English",
+            "D: Latin"
+        ]
+    },
+    {
+        "id": 428,
+        "question": "Identify the correct synonym for the word ‘Magnanimous’.",
+        "options": [
+            "A: generous",
+            "B: unkind",
+            "C: revengeful",
+            "D: friendly"
+        ]
+    },
+    {
+        "id": 429,
+        "question": "The beginning of the Renaissance may be traced to the city of –",
+        "options": [
+            "A: London",
+            "B: Venice",
+            "C: Paris",
+            "D: Florence"
+        ]
+    },
+    {
+        "id": 430,
+        "question": "‘Dog days’ means –",
+        "options": [
+            "A: a period of being carefree",
+            "B: a period of having youthful flings",
+            "C: a period of misfortune",
+            "D: hot weather"
+        ]
+    },
+    {
+        "id": 431,
+        "question": "A ‘ball market’ means, that share prices are –",
+        "options": [
+            "A: falling",
+            "B: rising",
+            "C: moving",
+            "D: static"
+        ]
+    },
+    {
+        "id": 432,
+        "question": "‘Man & Superman’ is written by-",
+        "options": [
+            "A: Keats",
+            "B: Shelley",
+            "C: Byron",
+            "D: G B Shaw"
+        ]
+    },
+    {
+        "id": 433,
+        "question": "The correct spelling is-",
+        "options": [
+            "A: Humourous",
+            "B: Humorious",
+            "C: Humorous",
+            "D: Humourious"
+        ]
+    },
+    {
+        "id": 434,
+        "question": "The word Ecological is related to-",
+        "options": [
+            "A: Environment",
+            "B: Atmosphere",
+            "C: Pollution",
+            "D: Biological"
+        ]
+    },
+    {
+        "id": 435,
+        "question": "‘Do or die’ is a-",
+        "options": [
+            "A: Compound sentence",
+            "B: Complex sentence",
+            "C: Simple sentence",
+            "D: Not at all a sentence"
+        ]
+    },
+    {
+        "id": 436,
+        "question": "What is the adjective of the word ‘Heart’ ?",
+        "options": [
+            "A: Heartest",
+            "B: Heartening",
+            "C: Hearten",
+            "D: Heartful"
+        ]
+    },
+    {
+        "id": 437,
+        "question": "‘Bag & baggage’ means-",
+        "options": [
+            "A: Property",
+            "B: Leaving nothing behind",
+            "C: Costly things",
+            "D: Heavy things"
+        ]
+    },
+    {
+        "id": 438,
+        "question": "which one is correct ?",
+        "options": [
+            "A: What is the time in your watch",
+            "B: What is the time by your watch",
+            "C: What is the time at your watch",
+            "D: What is the time into your watch"
+        ]
+    },
+    {
+        "id": 439,
+        "question": "I prefer tea – coffee",
+        "options": [
+            "A: for",
+            "B: to",
+            "C: on",
+            "D: of"
+        ]
+    },
+    {
+        "id": 440,
+        "question": "The correct meaning of ‘At home’ –",
+        "options": [
+            "A: Within the house",
+            "B: Expert",
+            "C: Powerful",
+            "D: Clear cut"
+        ]
+    },
+    {
+        "id": 441,
+        "question": "Which one is Wrong spelling ?",
+        "options": [
+            "A: Necessary",
+            "B: Prosparity",
+            "C: Influence",
+            "D: Happiness"
+        ]
+    },
+    {
+        "id": 442,
+        "question": "What is the synonym of ‘ Delude ‘ ?",
+        "options": [
+            "A: Demand",
+            "B: Permit",
+            "C: Aggravate",
+            "D: Deceive"
+        ]
+    },
+    {
+        "id": 443,
+        "question": "I can’t — what you say.",
+        "options": [
+            "A: make out",
+            "B: make on",
+            "C: made of",
+            "D: make of"
+        ]
+    },
+    {
+        "id": 444,
+        "question": "Find out the correct sentence ?",
+        "options": [
+            "A: He, you and I am prenest",
+            "B: I, you and he are present",
+            "C: You, he and I are present",
+            "D: You, he and I am present"
+        ]
+    },
+    {
+        "id": 445,
+        "question": "By leaps and bounds means —",
+        "options": [
+            "A: at rapid rates",
+            "B: aimlessly",
+            "C: easily",
+            "D: wisely"
+        ]
+    },
+    {
+        "id": 446,
+        "question": "Synonym for Temerity is-",
+        "options": [
+            "A: Sobriety",
+            "B: Propriety",
+            "C: Insolence",
+            "D: Pousy"
+        ]
+    },
+    {
+        "id": 447,
+        "question": "Which of the following is not a modal auxiliary ?",
+        "options": [
+            "A: should",
+            "B: can",
+            "C: are",
+            "D: might"
+        ]
+    },
+    {
+        "id": 448,
+        "question": "Metrer is — uni of length.",
+        "options": [
+            "A: the",
+            "B: a",
+            "C: no article",
+            "D: an"
+        ]
+    },
+    {
+        "id": 449,
+        "question": "The best word stands for abstract noun is-",
+        "options": [
+            "A: Boat",
+            "B: Beauty",
+            "C: Sail",
+            "D: Bird"
+        ]
+    },
+    {
+        "id": 450,
+        "question": "May Allah help you. What kind of sentence is this ?",
+        "options": [
+            "A: Optative",
+            "B: Assertive",
+            "C: Imperative",
+            "D: Exclamatory"
+        ]
+    },
+    {
+        "id": 451,
+        "question": "Which of the following word is singular ?",
+        "options": [
+            "A: Buses",
+            "B: Boxes",
+            "C: Agendas",
+            "D: Billiards"
+        ]
+    },
+    {
+        "id": 452,
+        "question": "What kind of noun the word Boy is-",
+        "options": [
+            "A: Common",
+            "B: Proper",
+            "C: Material",
+            "D: Abstract"
+        ]
+    },
+    {
+        "id": 453,
+        "question": "Man can’t live alone. The word alone used here is-",
+        "options": [
+            "A: Adjective",
+            "B: Pronoun",
+            "C: Preposition",
+            "D: Adverb"
+        ]
+    },
+    {
+        "id": 454,
+        "question": "Govt. has been entrusted — elected politicians.",
+        "options": [
+            "A: to",
+            "B: with",
+            "C: of",
+            "D: to"
+        ]
+    },
+    {
+        "id": 455,
+        "question": "Identify the correct passive form –",
+        "options": [
+            "A: The door should be opened",
+            "B: Let the door be opened by you",
+            "C: The door must be opned",
+            "D: Let the door be open"
+        ]
+    },
+    {
+        "id": 456,
+        "question": "The tense of a verb is related ti –",
+        "options": [
+            "A: person",
+            "B: time",
+            "C: degree",
+            "D: pronoun"
+        ]
+    },
+    {
+        "id": 457,
+        "question": "The correct meaning of a man of latter is —",
+        "options": [
+            "A: a postman",
+            "B: a bad man",
+            "C: a good man",
+            "D: a scholar"
+        ]
+    },
+    {
+        "id": 458,
+        "question": "The tense of a verb is related ti –",
+        "options": [
+            "A: person",
+            "B: time",
+            "C: degree",
+            "D: pronoun"
+        ]
+    },
+    {
+        "id": 459,
+        "question": "The correct meaning of a man of latter is –",
+        "options": [
+            "A: a postman",
+            "B: a bad man",
+            "C: a scholar",
+            "D: a good man"
+        ]
+    },
+    {
+        "id": 460,
+        "question": "Find the correct use of with —",
+        "options": [
+            "A: He was very nice with me.",
+            "B: Be patient with me",
+            "C: I am cross with you",
+            "D: The teacher was trembling with rage"
+        ]
+    },
+    {
+        "id": 461,
+        "question": "The boy dies —at cancer.",
+        "options": [
+            "A: in",
+            "B: of",
+            "C: from",
+            "D: at"
+        ]
+    },
+    {
+        "id": 462,
+        "question": "Which sentence is correct ?",
+        "options": [
+            "A: Jamal introduced me to her mother",
+            "B: Jamal introduced me to mother",
+            "C: Jamal introduced to her mother",
+            "D: Jamal introduced me to his mother"
+        ]
+    },
+    {
+        "id": 463,
+        "question": "Hurry up! We have to go — five minutes.",
+        "options": [
+            "A: in",
+            "B: by",
+            "C: for",
+            "D: on"
+        ]
+    },
+    {
+        "id": 464,
+        "question": "Synonym of the word Instigate –",
+        "options": [
+            "A: Investigate",
+            "B: Instil",
+            "C: Intoxicate",
+            "D: Incite"
+        ]
+    },
+    {
+        "id": 465,
+        "question": "He faced — difficulties.",
+        "options": [
+            "A: in",
+            "B: with",
+            "C: of",
+            "D: by"
+        ]
+    },
+    {
+        "id": 466,
+        "question": "If we had a boat, we — the river.",
+        "options": [
+            "A: would cross",
+            "B: will cress",
+            "C: eill be crossing",
+            "D: would make crossed"
+        ]
+    },
+    {
+        "id": 467,
+        "question": "Your conduct admits — no excuse.",
+        "options": [
+            "A: at",
+            "B: for",
+            "C: of",
+            "D: from"
+        ]
+    },
+    {
+        "id": 468,
+        "question": "The adjective of the word Mother is –",
+        "options": [
+            "A: Motherly",
+            "B: Motherhood",
+            "C: Mothering",
+            "D: Mother-in-law"
+        ]
+    },
+    {
+        "id": 469,
+        "question": "What is the verb of the word ability ?",
+        "options": [
+            "A: Ableness",
+            "B: Ably",
+            "C: Enable",
+            "D: Able"
+        ]
+    },
+    {
+        "id": 470,
+        "question": "Which is the noun of the word brief ?",
+        "options": [
+            "A: Brevity",
+            "B: Short",
+            "C: Briefly",
+            "D: Small"
+        ]
+    },
+    {
+        "id": 471,
+        "question": "He has just left …. the airport to meet a friend who is coming from England.",
+        "options": [
+            "A: to",
+            "B: at",
+            "C: for",
+            "D: from"
+        ]
+    },
+    {
+        "id": 472,
+        "question": "Choose the correct alternative to complete the sentence : He _____ to see us if he had been able to.",
+        "options": [
+            "A: would come",
+            "B: would have come",
+            "C: may have come",
+            "D: may come"
+        ]
+    },
+    {
+        "id": 473,
+        "question": "What is the synonym of Competent ?",
+        "options": [
+            "A: Circumspect",
+            "B: Capable",
+            "C: Discrete",
+            "D: Prudent"
+        ]
+    },
+    {
+        "id": 474,
+        "question": "What is the synonym of jovial ?",
+        "options": [
+            "A: Jolly",
+            "B: Jealous",
+            "C: Gay",
+            "D: Happy"
+        ]
+    },
+    {
+        "id": 475,
+        "question": "What is the antonym of Gentle ?",
+        "options": [
+            "A: Harsh",
+            "B: Clever",
+            "C: Modest",
+            "D: Rude"
+        ]
+    },
+    {
+        "id": 476,
+        "question": "What will be the correct preposition to complete the sentence? I am not bad ____ tennis.",
+        "options": [
+            "A: at",
+            "B: ",
+            "C: in",
+            "D: with",
+            "E: about"
+        ]
+    },
+    {
+        "id": 477,
+        "question": "Choose the correct answer . How long did you wait ____?",
+        "options": [
+            "A: till lunch time",
+            "B: till he came",
+            "C: until six O'clock",
+            "D: since this morning"
+        ]
+    },
+    {
+        "id": 478,
+        "question": "What is the meaning of White Elephant ?",
+        "options": [
+            "A: An elephant of white colour",
+            "B: A black marketer",
+            "C: A very costly or troublesome possession",
+            "D: A hoarder"
+        ]
+    },
+    {
+        "id": 479,
+        "question": "Choose the correct sentence….:",
+        "options": [
+            "A: The man that said that was a fool",
+            "B: The man who said that was a fool",
+            "C: The man said that was a fool",
+            "D: The man which said that was a fool"
+        ]
+    },
+    {
+        "id": 480,
+        "question": "Choose the correct sentence.:",
+        "options": [
+            "A: A few of the three boys got a prize Each of the three boys got a prize",
+            "B: Each of the three boys got a prize",
+            "C: Every of the three boys got a prize",
+            "D: All of the three boys got a prize"
+        ]
+    },
+    {
+        "id": 481,
+        "question": "Choose the correct sentence…:",
+        "options": [
+            "A: I asked Javed had he passed",
+            "B: I asked Javed if you had passed",
+            "C: I asked Javed if he had passed",
+            "D: I asked Javed that had he passed"
+        ]
+    },
+    {
+        "id": 482,
+        "question": "Choose the appropriate alternative to colplete sentence : he had a ____ of fever.",
+        "options": [
+            "A: severe attack",
+            "B: strong attack",
+            "C: bad attack",
+            "D: serious kind"
+        ]
+    },
+    {
+        "id": 483,
+        "question": "What kind of noun is Girl ?",
+        "options": [
+            "A: Proper",
+            "B: Common",
+            "C: Collective",
+            "D: material"
+        ]
+    },
+    {
+        "id": 484,
+        "question": "What kind of noun is Cattle ?",
+        "options": [
+            "A: Proper",
+            "B: Common",
+            "C: Collective",
+            "D: Material"
+        ]
+    },
+    {
+        "id": 485,
+        "question": "Protected: Who is the author of India Wins Freedom ?",
+        "options": [
+            "A: Mahatama Gandhi",
+            "B: J.L Nehru",
+            "C: Abul Kalam Azad",
+            "D: Moulana Akram Khan"
+        ]
+    },
+    {
+        "id": 486,
+        "question": "Protected: Who is the author of Animal Farm ?",
+        "options": [
+            "A: Thomas More",
+            "B: George Orwel",
+            "C: Thomas hardy",
+            "D: Ernest Hemingway"
+        ]
+    },
+    {
+        "id": 487,
+        "question": "The bad news struck him like a bolt from the——-",
+        "options": [
+            "A: Sky",
+            "B: Heavens",
+            "C: Firmament",
+            "D: Blue"
+        ]
+    },
+    {
+        "id": 488,
+        "question": "Botany is plants as Zoology is to ——-",
+        "options": [
+            "A: Flowers",
+            "B: Trees",
+            "C: Animals",
+            "D: Dear"
+        ]
+    },
+    {
+        "id": 489,
+        "question": "Good is bad as white is to—-",
+        "options": [
+            "A: Dark",
+            "B: Black",
+            "C: Grey",
+            "D: Ebony"
+        ]
+    },
+    {
+        "id": 490,
+        "question": "’Sky’ is to ‘bird’ as ‘water’ is to—-",
+        "options": [
+            "A: Feather",
+            "B: Fish",
+            "C: Boat",
+            "D: Lotus"
+        ]
+    },
+    {
+        "id": 491,
+        "question": "I have not heard from him—",
+        "options": [
+            "A: Long since",
+            "B: Since long",
+            "C: For long",
+            "D: For a long time"
+        ]
+    },
+    {
+        "id": 492,
+        "question": "A ‘ball market’ means, that share prices are_",
+        "options": [
+            "A: falling",
+            "B: rising",
+            "C: moving",
+            "D: static"
+        ]
+    },
+    {
+        "id": 493,
+        "question": "He tree has been blown@by the strong kind.",
+        "options": [
+            "A: away",
+            "B: up",
+            "C: of",
+            "D: out"
+        ]
+    },
+    {
+        "id": 494,
+        "question": "Complete the sentences : ‘If she had studied harder-‘.",
+        "options": [
+            "A: She would do well",
+            "B: She will have done well",
+            "C: She would have done well",
+            "D: She would have do well"
+        ]
+    },
+    {
+        "id": 495,
+        "question": "Which one is correct_?",
+        "options": [
+            "A: Our neighbours are going to a holiday",
+            "B: Our neighbours are going to a holiday",
+            "C: Our neighbours are going on a holiday",
+            "D: Our neighbours are going in a holiday"
+        ]
+    },
+    {
+        "id": 496,
+        "question": "The word ‘Euphemism’ means-_",
+        "options": [
+            "A: stating one thing like another",
+            "B: description of a disagreeable thing by an agreeable name",
+            "C: contrast the words is made in the same sentence",
+            "D: statement is made emphatic by over statement"
+        ]
+    },
+    {
+        "id": 497,
+        "question": "Choose the correct word. Selim is absent because he@a cold.",
+        "options": [
+            "A: is having",
+            "B: have",
+            "C: had",
+            "D: should do"
+        ]
+    },
+    {
+        "id": 498,
+        "question": "‘ad hoc’ is a  _ word.",
+        "options": [
+            "A: French",
+            "B: German",
+            "C: English",
+            "D: Latin"
+        ]
+    },
+    {
+        "id": 499,
+        "question": "dentify the correct synonym for the word ‘Magnanimous’.",
+        "options": [
+            "A: generous",
+            "B: unkind",
+            "C: revengeful",
+            "D: friendly"
+        ]
+    },
+    {
+        "id": 500,
+        "question": "Every driver must be held @ his own actions.",
+        "options": [
+            "A: responsible for",
+            "B: responsible to",
+            "C: liable to",
+            "D: blamed of"
+        ]
+    },
+    {
+        "id": 501,
+        "question": "The expression ‘after one’s own heart’ means –",
+        "options": [
+            "A: To be in low spirit",
+            "B: With complete devotion",
+            "C: To one's own liking",
+            "D: To be in high spirit"
+        ]
+    },
+    {
+        "id": 502,
+        "question": "‘Poet Laureate’ is_",
+        "options": [
+            "A: Court poet of England",
+            "B: Classical poet",
+            "C: Best poet of the country",
+            "D: Wineer of Nobel Prize"
+        ]
+    },
+    {
+        "id": 503,
+        "question": "Who is considered to be the father on ‘English Novel’?",
+        "options": [
+            "A: Francis Bacon",
+            "B: Geoffrey Chaucer",
+            "C: King Alfred the Great",
+            "D: Henry Fielding"
+        ]
+    },
+    {
+        "id": 504,
+        "question": "The beginning of the Renaissance may be traced to the city of_",
+        "options": [
+            "A: Venice",
+            "B: London",
+            "C: Florence",
+            "D: Paris"
+        ]
+    },
+    {
+        "id": 505,
+        "question": "‘Dog days’ means_",
+        "options": [
+            "A: a period of being carefree",
+            "B: a period of having youthful flings",
+            "C: a period of misfortune",
+            "D: hot weather"
+        ]
+    },
+    {
+        "id": 506,
+        "question": "A ordinance is_",
+        "options": [
+            "A: a book",
+            "B: an arms factory",
+            "C: a newspaper twenty",
+            "D: a law"
+        ]
+    },
+    {
+        "id": 507,
+        "question": "This is …………….easy question.",
+        "options": [
+            "A: a",
+            "B: an",
+            "C: are",
+            "D: None of these"
+        ]
+    },
+    {
+        "id": 508,
+        "question": "May I have your……….phone number?",
+        "options": [
+            "A: an",
+            "B: a",
+            "C: are",
+            "D: None of these"
+        ]
+    },
+    {
+        "id": 509,
+        "question": "He parted _ his friends in tears.",
+        "options": [
+            "A: with",
+            "B: from",
+            "C: against",
+            "D: beside"
+        ]
+    },
+    {
+        "id": 510,
+        "question": "Don’t make a noise while your father-",
+        "options": [
+            "A: is being aslep",
+            "B: is sleeping",
+            "C: asleep",
+            "D: had slept"
+        ]
+    },
+    {
+        "id": 511,
+        "question": "‘At daggers drawn’ means-",
+        "options": [
+            "A: is disorderly",
+            "B: at a standstill",
+            "C: on embreaching point",
+            "D: on the point of fighting"
+        ]
+    },
+    {
+        "id": 512,
+        "question": "Blue Chips are-",
+        "options": [
+            "A: Securities issued by the Government",
+            "B: Industrial Shares considered to be a safe investment",
+            "C: Industrial shares considered to be a risky investment",
+            "D: Flat plastic counters used as many tokens"
+        ]
+    },
+    {
+        "id": 513,
+        "question": "nternal bleeding is often hard to detect and usually is the result of perforation is some organ choose correct meaning of ‘perforation’.",
+        "options": [
+            "A: puncture",
+            "B: malfunction",
+            "C: ninishment",
+            "D: deromity"
+        ]
+    },
+    {
+        "id": 514,
+        "question": "Castigate is most nearly opposite in meaning to –",
+        "options": [
+            "A: Change",
+            "B: Flatten",
+            "C: Extol",
+            "D: None of them"
+        ]
+    },
+    {
+        "id": 515,
+        "question": "Labib will discuss the issue with Afra ___ phone.",
+        "options": [
+            "A: over",
+            "B: by",
+            "C: in",
+            "D: on"
+        ]
+    },
+    {
+        "id": 516,
+        "question": "Maiden speech means-",
+        "options": [
+            "A: Middle speech",
+            "B: First speech",
+            "C: Final speech"
+        ]
+    },
+    {
+        "id": 517,
+        "question": "Fastidious is most nearly opposite in meaning to –",
+        "options": [
+            "A: Monotonous",
+            "B: Aloof",
+            "C: Interminable",
+            "D: Easygoing"
+        ]
+    },
+    {
+        "id": 518,
+        "question": "The only error in the sentence, ‘One of the recommendation made by the committee was accepted by the authorities’ is –",
+        "options": [
+            "A: recommendation",
+            "B: accepted by",
+            "C: was",
+            "D: committee"
+        ]
+    },
+    {
+        "id": 519,
+        "question": "Find the opposite meaning of the word ‘Transparent’ –",
+        "options": [
+            "A: Opaque",
+            "B: Apparent",
+            "C: Manifest",
+            "D: Explicit"
+        ]
+    },
+    {
+        "id": 520,
+        "question": "The teacher did not make students — their essays.",
+        "options": [
+            "A: to type",
+            "B: typing",
+            "C: type",
+            "D: typed"
+        ]
+    },
+    {
+        "id": 521,
+        "question": "What is the masculine gender of ‘mare’ ?",
+        "options": [
+            "A: Mermaid",
+            "B: Stalion",
+            "C: Bear",
+            "D: Dog"
+        ]
+    },
+    {
+        "id": 522,
+        "question": "Salute is most nearly opposite in meaning to –",
+        "options": [
+            "A: Espy",
+            "B: Acquire",
+            "C: Defame",
+            "D: Cogitate"
+        ]
+    },
+    {
+        "id": 523,
+        "question": "We opted — reconciliation.",
+        "options": [
+            "A: to",
+            "B: of",
+            "C: for",
+            "D: in"
+        ]
+    },
+    {
+        "id": 524,
+        "question": "Find the correct word –",
+        "options": [
+            "A: Indefference",
+            "B: Indifference",
+            "C: Indiferent",
+            "D: Indifferrence"
+        ]
+    },
+    {
+        "id": 525,
+        "question": "Which of the following is a synonym of accelaration ?",
+        "options": [
+            "A: Hastening",
+            "B: Slakening",
+            "C: Slowing Down",
+            "D: Braking"
+        ]
+    },
+    {
+        "id": 526,
+        "question": "‘Succumb’ means –",
+        "options": [
+            "A: win",
+            "B: submit",
+            "C: achieve",
+            "D: conqur"
+        ]
+    },
+    {
+        "id": 527,
+        "question": "Which of the following word is not correctly spelled ?",
+        "options": [
+            "A: Enthusiasm",
+            "B: Insomnia",
+            "C: Extroversion",
+            "D: Obssession"
+        ]
+    },
+    {
+        "id": 528,
+        "question": "The light went out while I —",
+        "options": [
+            "A: read",
+            "B: was reading",
+            "C: had read",
+            "D: had been reading"
+        ]
+    },
+    {
+        "id": 529,
+        "question": "His poor health is the main — to his promotion this year.",
+        "options": [
+            "A: obstacle",
+            "B: danger",
+            "C: worry",
+            "D: road block"
+        ]
+    },
+    {
+        "id": 530,
+        "question": "Choose the correct spelling:",
+        "options": [
+            "A: Questionnaire",
+            "B: Questionere",
+            "C: Questionarie",
+            "D: Questioneer"
+        ]
+    },
+    {
+        "id": 531,
+        "question": "Indictment is most nearly opposite in meaning to –",
+        "options": [
+            "A: Tirade",
+            "B: Crime",
+            "C: Eulogy",
+            "D: None Of them"
+        ]
+    },
+    {
+        "id": 532,
+        "question": "The word ‘Lucrative’ means –",
+        "options": [
+            "A: professional",
+            "B: good looking",
+            "C: perfect",
+            "D: Profitable"
+        ]
+    },
+    {
+        "id": 533,
+        "question": "I prefer — what I like even though it — not having much money.",
+        "options": [
+            "A: to doing, mean",
+            "B: doing, mean",
+            "C: doing, means",
+            "D: to do, may"
+        ]
+    },
+    {
+        "id": 534,
+        "question": "Find the one most nearly similar in meaning to the word ‘Despise’ –",
+        "options": [
+            "A: Facilitate",
+            "B: Abhor",
+            "C: Commend",
+            "D: Infuriate"
+        ]
+    },
+    {
+        "id": 535,
+        "question": "If I — going to enter the competition, I would have done so by now.",
+        "options": [
+            "A: were",
+            "B: would have",
+            "C: am",
+            "D: would have been"
+        ]
+    },
+    {
+        "id": 536,
+        "question": "Taciturn is most nearly opposite in meaning to –",
+        "options": [
+            "A: Spoken",
+            "B: Talkative",
+            "C: Leisurely",
+            "D: Placatory"
+        ]
+    },
+    {
+        "id": 537,
+        "question": "Chose the correctly spelt word.",
+        "options": [
+            "A: Piety",
+            "B: Pietty",
+            "C: Pitie",
+            "D: None of the abobe"
+        ]
+    },
+    {
+        "id": 538,
+        "question": "Fil in the blank of the following sentence with the right form of verb. If i — a king!",
+        "options": [
+            "A: were",
+            "B: am",
+            "C: was",
+            "D: shall be"
+        ]
+    },
+    {
+        "id": 539,
+        "question": "Pick the word that is synonymous with ‘authoritarian’",
+        "options": [
+            "A: Elderly",
+            "B: Autocratic",
+            "C: Potential",
+            "D: Senio"
+        ]
+    },
+    {
+        "id": 540,
+        "question": "‘The French’ refers to –",
+        "options": [
+            "A: the French people",
+            "B: the French Language",
+            "C: the French society",
+            "D: the French manners"
+        ]
+    },
+    {
+        "id": 541,
+        "question": "Doctor advised us — smoke.",
+        "options": [
+            "A: not to",
+            "B: to not",
+            "C: not",
+            "D: avoid"
+        ]
+    },
+    {
+        "id": 542,
+        "question": "The expression ‘take into account’ means-",
+        "options": [
+            "A: count numbers",
+            "B: assess",
+            "C: consider",
+            "D: think seriously"
+        ]
+    },
+    {
+        "id": 543,
+        "question": "The idiom “put up with” means",
+        "options": [
+            "A: tolerate",
+            "B: stay together",
+            "C: keep trust",
+            "D: protector"
+        ]
+    },
+    {
+        "id": 544,
+        "question": "Choose the correct synonym for – ‘Extempore’",
+        "options": [
+            "A: Immediate",
+            "B: Improvise",
+            "C: Planned",
+            "D: Imprumptu"
+        ]
+    },
+    {
+        "id": 545,
+        "question": "Choose the correct antomym for- ‘Cynical’",
+        "options": [
+            "A: Pessimistic",
+            "B: Gullible",
+            "C: Equivocal",
+            "D: Liberal"
+        ]
+    },
+    {
+        "id": 546,
+        "question": "‘Call to mind’ means —",
+        "options": [
+            "A: Remember",
+            "B: Fantasize",
+            "C: Attend",
+            "D: Request"
+        ]
+    },
+    {
+        "id": 547,
+        "question": "The word ‘officialese’ means –",
+        "options": [
+            "A: plural number of official",
+            "B: plural number of offices",
+            "C: vague expressions",
+            "D: language used in offices"
+        ]
+    },
+    {
+        "id": 548,
+        "question": "We look forward ____ a response from you.",
+        "options": [
+            "A: to receive",
+            "B: in receiving",
+            "C: to receiving",
+            "D: for receiving"
+        ]
+    },
+    {
+        "id": 549,
+        "question": "Choose the word that conveys the same meaning as the word given in capital letters. ‘IMPUTE’",
+        "options": [
+            "A: Blame",
+            "B: Apply",
+            "C: Expect",
+            "D: Attribute"
+        ]
+    },
+    {
+        "id": 550,
+        "question": "Choose the word that conveys the same meaning as the word given in capital letters. ‘ANXIETY’",
+        "options": [
+            "A: Comfort",
+            "B: Faith",
+            "C: Reassurance",
+            "D: Worry"
+        ]
+    },
+    {
+        "id": 551,
+        "question": "Choose the word that conveys the same meaning as the word given in capital letters. ‘ EXIGENCY’",
+        "options": [
+            "A: Dilemma",
+            "B: Constraint",
+            "C: Demand",
+            "D: Occasion"
+        ]
+    },
+    {
+        "id": 552,
+        "question": "‘Pass away’ means",
+        "options": [
+            "A: die",
+            "B: fall",
+            "C: disappear",
+            "D: erase"
+        ]
+    },
+    {
+        "id": 553,
+        "question": "The word “permissive” implies",
+        "options": [
+            "A: law-abiding",
+            "B: submissive",
+            "C: liberal",
+            "D: humble"
+        ]
+    },
+    {
+        "id": 554,
+        "question": "Travellers — their reservation well in advance if they want to visit the ST. Martins island.",
+        "options": [
+            "A: had to better get",
+            "B: had better to get",
+            "C: had better got",
+            "D: had better get"
+        ]
+    },
+    {
+        "id": 555,
+        "question": "Only these who are not serious to their success work by — and starts.",
+        "options": [
+            "A: long odds",
+            "B: fits",
+            "C: against time",
+            "D: every inch"
+        ]
+    },
+    {
+        "id": 556,
+        "question": "dhaka is becoming one of the —– cities in asia .",
+        "options": [
+            "A: Busiest",
+            "B: More busier",
+            "C: More busy",
+            "D: None of the above"
+        ]
+    },
+    {
+        "id": 557,
+        "question": "Choose the one of that best express the opposite meaning of the given word: Optimist.",
+        "options": [
+            "A: Idealistic",
+            "B: Romantic",
+            "C: Pessimist",
+            "D: None of the above"
+        ]
+    },
+    {
+        "id": 558,
+        "question": "The sentence ‘Who would have thought Shylock was so unkind ?’ expresses-",
+        "options": [
+            "A: command",
+            "B: hyporbole",
+            "C: wounder",
+            "D: interrogation"
+        ]
+    },
+    {
+        "id": 559,
+        "question": "Choose the pair of words that expresses a relationship similar to that of the given pair : Pattron : Support",
+        "options": [
+            "A: Articst : imitation",
+            "B: Counselor : advice",
+            "C: Spouse : divorce",
+            "D: Rastaurant : customer"
+        ]
+    },
+    {
+        "id": 560,
+        "question": "After food has been dried or canned — for later consumption.",
+        "options": [
+            "A: it should be stored",
+            "B: should be stored",
+            "C: that it should be stored",
+            "D: which should be stored"
+        ]
+    },
+    {
+        "id": 561,
+        "question": "Select the alternative which best expresses the meaning of the given sentence ‘We were no more surprised than Rahman.’",
+        "options": [
+            "A: We were all surprised",
+            "B: We were as surprised as Rahman",
+            "C: Rahman was less surprised than us",
+            "D: We were less surprised than Rahman"
+        ]
+    },
+    {
+        "id": 562,
+        "question": "Select the best word to fill in the blanks. Don’t worry —- father, he will be fine.",
+        "options": [
+            "A: of",
+            "B: for",
+            "C: because",
+            "D: about"
+        ]
+    },
+    {
+        "id": 563,
+        "question": "When one is ‘pragmatic’, he is being –",
+        "options": [
+            "A: Wasteful",
+            "B: Practical",
+            "C: Productive",
+            "D: None of the above"
+        ]
+    },
+    {
+        "id": 564,
+        "question": "Each of the olympic athletes —– for months, even years.",
+        "options": [
+            "A: were training",
+            "B: shall train",
+            "C: has been training",
+            "D: have been training"
+        ]
+    },
+    {
+        "id": 565,
+        "question": "The bus —- arrives late during bad weather.",
+        "options": [
+            "A: yesterday",
+            "B: always",
+            "C: used to",
+            "D: every day"
+        ]
+    },
+    {
+        "id": 566,
+        "question": "The hurricane caused —– damage to the city.",
+        "options": [
+            "A: extensive",
+            "B: extension",
+            "C: extended",
+            "D: extend"
+        ]
+    },
+    {
+        "id": 567,
+        "question": "The team is —– eleven players.",
+        "options": [
+            "A: made",
+            "B: made up",
+            "C: made of",
+            "D: made up of"
+        ]
+    },
+    {
+        "id": 568,
+        "question": "The movie was —- the book.",
+        "options": [
+            "A: as",
+            "B: as good",
+            "C: good as",
+            "D: as good as"
+        ]
+    },
+    {
+        "id": 569,
+        "question": "The concert will begin —– fifteen minutes.",
+        "options": [
+            "A: at",
+            "B: in",
+            "C: by about",
+            "D: on"
+        ]
+    },
+    {
+        "id": 570,
+        "question": "Each of the sons followed __ father’s trade.",
+        "options": [
+            "A: his",
+            "B: her",
+            "C: whose",
+            "D: their"
+        ]
+    },
+    {
+        "id": 571,
+        "question": "I finally killed the fly —– a rolled up newspaper.",
+        "options": [
+            "A: by",
+            "B: through",
+            "C: with",
+            "D: None of the above"
+        ]
+    },
+    {
+        "id": 572,
+        "question": "My flight departs —- 5 pm.",
+        "options": [
+            "A: about",
+            "B: from",
+            "C: on",
+            "D: at"
+        ]
+    },
+    {
+        "id": 573,
+        "question": "The criticis had to admit that the ballet —– was superb.",
+        "options": [
+            "A: Service",
+            "B: Trading",
+            "C: Performance",
+            "D: Pathology"
+        ]
+    },
+    {
+        "id": 574,
+        "question": "In many ways, riding a bicycle is similar to –",
+        "options": [
+            "A: when one drives a car",
+            "B: driving a car",
+            "C: the driving of a car",
+            "D: when we drive a car"
+        ]
+    },
+    {
+        "id": 575,
+        "question": "If a person cannot stop taking drugs, he is –",
+        "options": [
+            "A: addicted to them",
+            "B: committed to them",
+            "C: attached to them",
+            "D: devoted to them"
+        ]
+    },
+    {
+        "id": 576,
+        "question": "Choose the pair of words that expresses a relationship similar to that of the given pair : Heart : human",
+        "options": [
+            "A: Kitchen : house",
+            "B: Engine : car",
+            "C: Walk : brick",
+            "D: Hand : child"
+        ]
+    },
+    {
+        "id": 577,
+        "question": "Choose the pair of words that expresses a relationship similar to that of the given pair : Words : writer",
+        "options": [
+            "A: Laws : policeman",
+            "B: Butter : backer",
+            "C: Joy : emotion",
+            "D: Chalk : black board"
+        ]
+    },
+    {
+        "id": 578,
+        "question": "‘Get along’ Means :",
+        "options": [
+            "A: Adjust",
+            "B: Walk",
+            "C: Close",
+            "D: Have smooth relations"
+        ]
+    },
+    {
+        "id": 579,
+        "question": "Choose the one of that best express the meaning of the given word: AMICABLE.",
+        "options": [
+            "A: Friendly",
+            "B: Affectionate",
+            "C: Interesting",
+            "D: Loving"
+        ]
+    },
+    {
+        "id": 580,
+        "question": "Your conduct admits —– no excuse.",
+        "options": [
+            "A: at",
+            "B: for",
+            "C: of",
+            "D: from"
+        ]
+    },
+    {
+        "id": 581,
+        "question": "Each of the olympic athletes —– for months, even years.",
+        "options": [
+            "A: were training",
+            "B: shall train",
+            "C: has been training",
+            "D: have been training"
+        ]
+    },
+    {
+        "id": 582,
+        "question": "The team is —– eleven players.",
+        "options": [
+            "A: made",
+            "B: made up",
+            "C: made of",
+            "D: made up of"
+        ]
+    },
+    {
+        "id": 583,
+        "question": "Choose the word that conveys the same meaning as the word given in capital letters. ‘SERENITY’",
+        "options": [
+            "A: Calmness",
+            "B: Stir",
+            "C: Protest",
+            "D: Agitation"
+        ]
+    },
+    {
+        "id": 584,
+        "question": "Choose the word that conveys the same meaning as the word given in capital letters. ‘REFUTE’",
+        "options": [
+            "A: Disprove",
+            "B: Void",
+            "C: Hinder",
+            "D: Frustrate"
+        ]
+    },
+    {
+        "id": 585,
+        "question": "Fill in the blanks. My uncle arrived while I —– the dinner.",
+        "options": [
+            "A: had cooked",
+            "B: was cooking",
+            "C: cooked",
+            "D: would cook"
+        ]
+    },
+    {
+        "id": 586,
+        "question": "The candle have been blown —— by the wind.",
+        "options": [
+            "A: out",
+            "B: away",
+            "C: up",
+            "D: None of the above"
+        ]
+    },
+    {
+        "id": 587,
+        "question": "The synonym of the word ‘Erratic’ is:",
+        "options": [
+            "A: Adore",
+            "B: Vague",
+            "C: Irregular",
+            "D: Prodigal"
+        ]
+    },
+    {
+        "id": 588,
+        "question": "The antonym of the word ‘manifest’ is :",
+        "options": [
+            "A: Obscure",
+            "B: Faculty",
+            "C: Limited",
+            "D: Vital"
+        ]
+    },
+    {
+        "id": 589,
+        "question": "The meaning of the word ‘facilitate’ is :",
+        "options": [
+            "A: Give pleasure",
+            "B: Congratulate",
+            "C: Express sympathy",
+            "D: Make it easy"
+        ]
+    },
+    {
+        "id": 590,
+        "question": "Zaman —- rather not invest that money in the stock market.",
+        "options": [
+            "A: must",
+            "B: would",
+            "C: has to",
+            "D: could"
+        ]
+    },
+    {
+        "id": 591,
+        "question": "Choose the correct antomym for- ‘Oblige’",
+        "options": [
+            "A: Require",
+            "B: Bind",
+            "C: Censure",
+            "D: Bother"
+        ]
+    },
+    {
+        "id": 592,
+        "question": "The synonym of ‘notion’ is:",
+        "options": [
+            "A: Impression",
+            "B: Faith",
+            "C: Fact",
+            "D: Truth"
+        ]
+    },
+    {
+        "id": 593,
+        "question": "Have we got ___ milk in the fridge?",
+        "options": [
+            "A: some",
+            "B: few",
+            "C: any",
+            "D: many"
+        ]
+    },
+    {
+        "id": 594,
+        "question": "I’m a teacher. ____________ do you do? – Nice to meet you!",
+        "options": [
+            "A: when",
+            "B: how",
+            "C: who",
+            "D: what"
+        ]
+    },
+    {
+        "id": 595,
+        "question": "This film is ____________ than his last one.",
+        "options": [
+            "A: good",
+            "B: better",
+            "C: best",
+            "D: no one of them"
+        ]
+    },
+    {
+        "id": 596,
+        "question": "Do you like to shop ___ Lucky’s Supermarket? Which preposition is suitable for the sentance?",
+        "options": [
+            "A: at",
+            "B: from",
+            "C: on",
+            "D: of"
+        ]
+    },
+    {
+        "id": 597,
+        "question": "Tiger : Zoology : Mars:-",
+        "options": [
+            "A: Cryptology",
+            "B: Astrology",
+            "C: Astrologey",
+            "D: Telescopy"
+        ]
+    },
+    {
+        "id": 598,
+        "question": "Find the opposite meaning of the word ‘Transparent’ –",
+        "options": [
+            "A: Opaque",
+            "B: Apparent",
+            "C: Manifest",
+            "D: Explicit"
+        ]
+    },
+    {
+        "id": 599,
+        "question": "The teacher did not make students — their essays.",
+        "options": [
+            "A: to type",
+            "B: typing",
+            "C: type",
+            "D: typed"
+        ]
+    },
+    {
+        "id": 600,
+        "question": "What is the masculine gender of ‘mare’ ?",
+        "options": [
+            "A: Mermaid",
+            "B: Stalion",
+            "C: Bear",
+            "D: Dog"
+        ]
+    },
+    {
+        "id": 601,
+        "question": "Find the correct word –",
+        "options": [
+            "A: Indefference",
+            "B: Indifference",
+            "C: Indiferent",
+            "D: Indifferrence"
+        ]
+    },
+    {
+        "id": 602,
+        "question": "Taciturn is most nearly opposite in meaning to –",
+        "options": [
+            "A: Spoken",
+            "B: Talkative",
+            "C: Leisurely",
+            "D: Placatory"
+        ]
+    },
+    {
+        "id": 603,
+        "question": "The candle have been blown —— by the wind.",
+        "options": [
+            "A: away",
+            "B: out",
+            "C: up",
+            "D: None of the above"
+        ]
+    },
+    {
+        "id": 604,
+        "question": "A person who studies the scientific development of language is a_",
+        "options": [
+            "A: Philatelist",
+            "B: Philanthropist",
+            "C: Pharmacologist",
+            "D: Philologist"
+        ]
+    },
+    {
+        "id": 605,
+        "question": "He said, ‘Friends goodbye’.It’s indirect form is_",
+        "options": [
+            "A: He bade his friends goodbye",
+            "B: He told his friends goodbye",
+            "C: He said goodbye to his friends",
+            "D: He wished his friends goodbye"
+        ]
+    },
+    {
+        "id": 606,
+        "question": "Which word below can replace the following phrase ‘went down’_",
+        "options": [
+            "A: Broke",
+            "B: Collapsed",
+            "C: Shattered",
+            "D: Splintered"
+        ]
+    },
+    {
+        "id": 607,
+        "question": "He__ to Chicago just a few months ago.",
+        "options": [
+            "A: has moved",
+            "B: had moved",
+            "C: would moved",
+            "D: moved"
+        ]
+    },
+    {
+        "id": 608,
+        "question": "Which one is correct?",
+        "options": [
+            "A: The thickness of the books vary",
+            "B: The thickness of the books is very",
+            "C: The thickness of the books varies",
+            "D: The thickness of the book vary"
+        ]
+    },
+    {
+        "id": 609,
+        "question": "Passive of ‘Pay the bill today’_",
+        "options": [
+            "A: The bill is to be paid today",
+            "B: Let the bill be paid today",
+            "C: The bill will be paid today",
+            "D: The bill may be paid today"
+        ]
+    },
+    {
+        "id": 610,
+        "question": "Find the correct use of with_",
+        "options": [
+            "A: My father was trembling with rage.",
+            "B: I am cross with you",
+            "C: She was very patient with me",
+            "D: She was very nice with me"
+        ]
+    },
+    {
+        "id": 611,
+        "question": "‘Boot leg’ means_",
+        "options": [
+            "A: Distribute",
+            "B: Export",
+            "C: smuggle",
+            "D: import"
+        ]
+    },
+    {
+        "id": 612,
+        "question": "Tennyson’s ‘Memoriam’ is_",
+        "options": [
+            "A: an elegy",
+            "B: an ode",
+            "C: a sonnet",
+            "D: none of these"
+        ]
+    },
+    {
+        "id": 613,
+        "question": "‘Silent woman’ written by__",
+        "options": [
+            "A: John Ruskin",
+            "B: Ben Johnson",
+            "C: Kalidas",
+            "D: John Milton"
+        ]
+    },
+    {
+        "id": 614,
+        "question": "‘To err is human, to forgive is divine’ quoted by_",
+        "options": [
+            "A: J. Dryden",
+            "B: A. Tennyson",
+            "C: Alexander Pope",
+            "D: W. Blake"
+        ]
+    },
+    {
+        "id": 615,
+        "question": "What is the verb of the world ‘antagonism’?",
+        "options": [
+            "A: Antagonistic",
+            "B: Antagonistically",
+            "C: Antagonise",
+            "D: Antagonisely"
+        ]
+    },
+    {
+        "id": 616,
+        "question": "“Pride and Prejudice” is a_",
+        "options": [
+            "A: Epic",
+            "B: Poem",
+            "C: Novel",
+            "D: Play"
+        ]
+    },
+    {
+        "id": 617,
+        "question": "Correct spelling is_",
+        "options": [
+            "A: Assassination",
+            "B: Assasination",
+            "C: Asassination",
+            "D: Assassinition"
+        ]
+    },
+    {
+        "id": 618,
+        "question": "“A perfect democracy is therefore the most shameless thing in the world”_is quoted by",
+        "options": [
+            "A: Abraham Lincon",
+            "B: Aristotle",
+            "C: Lord Brice",
+            "D: Edmund Burke"
+        ]
+    },
+    {
+        "id": 619,
+        "question": "Cut and dried means_",
+        "options": [
+            "A: secret",
+            "B: already decided",
+            "C: brief",
+            "D: humorous"
+        ]
+    },
+    {
+        "id": 620,
+        "question": "Synonym of “Despicable” is_",
+        "options": [
+            "A: contemptible",
+            "B: honourable",
+            "C: praiseworthy",
+            "D: commendable"
+        ]
+    },
+    {
+        "id": 621,
+        "question": "Synonym of “Daze” is_",
+        "options": [
+            "A: stupefy",
+            "B: furore",
+            "C: zeal",
+            "D: fanaticism"
+        ]
+    },
+    {
+        "id": 622,
+        "question": "Antonym of “Circuitous” is_",
+        "options": [
+            "A: Round about",
+            "B: devious",
+            "C: tortuous",
+            "D: direct"
+        ]
+    },
+    {
+        "id": 623,
+        "question": "Antonym of “Captive” is_",
+        "options": [
+            "A: fascinate",
+            "B: Bewitch",
+            "C: Entrance",
+            "D: Rebel"
+        ]
+    },
+    {
+        "id": 624,
+        "question": "Cancer cells are normal cells run riot growing and multiplying out of_",
+        "options": [
+            "A: Spite",
+            "B: danger",
+            "C: control",
+            "D: apathy"
+        ]
+    },
+    {
+        "id": 625,
+        "question": "Choose the correct sentence_?",
+        "options": [
+            "A: She is not running and do not intend to run",
+            "B: She is not and does not intend to run for political office",
+            "C: She is not and will not intend to run",
+            "D: She is not running and does not intend to run"
+        ]
+    },
+    {
+        "id": 626,
+        "question": "Which was the oldest period in English literature?",
+        "options": [
+            "A: Anglo-Norman",
+            "B: Anglo-Saxon",
+            "C: Chaucer's period",
+            "D: Middle Age"
+        ]
+    },
+    {
+        "id": 627,
+        "question": "Correct Antonym if the word ‘shrivel’ is__",
+        "options": [
+            "A: embrace",
+            "B: expand",
+            "C: expole",
+            "D: enslave"
+        ]
+    },
+    {
+        "id": 628,
+        "question": "A synonym of `Plight’ is_",
+        "options": [
+            "A: air travel",
+            "B: fall",
+            "C: cruise",
+            "D: suffering"
+        ]
+    },
+    {
+        "id": 629,
+        "question": "By and large means_",
+        "options": [
+            "A: Very large",
+            "B: Mostly",
+            "C: Everywhere",
+            "D: Far away"
+        ]
+    },
+    {
+        "id": 630,
+        "question": "‘Dead letter’ means_",
+        "options": [
+            "A: Bad law",
+            "B: Law not in force",
+            "C: Letter not in use",
+            "D: Old letter"
+        ]
+    },
+    {
+        "id": 631,
+        "question": "We could not buy anything because__ of the shops was open.",
+        "options": [
+            "A: all",
+            "B: no one",
+            "C: none",
+            "D: nothing"
+        ]
+    },
+    {
+        "id": 632,
+        "question": "As the sun__, I decided to go out.",
+        "options": [
+            "A: shines",
+            "B: had shone",
+            "C: shine",
+            "D: was shining"
+        ]
+    },
+    {
+        "id": 633,
+        "question": "When I__ money, I will buy a dictionary.",
+        "options": [
+            "A: may get",
+            "B: may be got",
+            "C: will get",
+            "D: get"
+        ]
+    },
+    {
+        "id": 634,
+        "question": "First language means_",
+        "options": [
+            "A: important",
+            "B: main",
+            "C: natural",
+            "D: official"
+        ]
+    },
+    {
+        "id": 635,
+        "question": "Which is not related to literature?",
+        "options": [
+            "A: Demagogue",
+            "B: Epilogue",
+            "C: Monologue",
+            "D: Prologue"
+        ]
+    },
+    {
+        "id": 636,
+        "question": "He was divested __ all power.",
+        "options": [
+            "A: with",
+            "B: on",
+            "C: of",
+            "D: to"
+        ]
+    },
+    {
+        "id": 637,
+        "question": "True happiness consists __ contentment.",
+        "options": [
+            "A: of",
+            "B: into",
+            "C: with",
+            "D: in"
+        ]
+    },
+    {
+        "id": 638,
+        "question": "If I’d known you were alone, I",
+        "options": [
+            "A: would visit you.",
+            "B: would've visited you.",
+            "C: will visit you.",
+            "D: could visit you."
+        ]
+    },
+    {
+        "id": 639,
+        "question": "Synonym of the word perceptive is",
+        "options": [
+            "A: negative",
+            "B: incisive",
+            "C: fulsome",
+            "D: cagey"
+        ]
+    },
+    {
+        "id": 640,
+        "question": "You and I talked with Professor yesterday. Tag Question is- You and I talked with Professor yesterday, __ ?",
+        "options": [
+            "A: didn't you?",
+            "B: didn't I ?",
+            "C: didn't we?",
+            "D: didn't they?"
+        ]
+    },
+    {
+        "id": 641,
+        "question": "Which spelling is correct below?",
+        "options": [
+            "A: Separate",
+            "B: Separete",
+            "C: Saparate",
+            "D: Saperate"
+        ]
+    },
+    {
+        "id": 642,
+        "question": "Trees have __ off their leaves.",
+        "options": [
+            "A: thrown",
+            "B: put",
+            "C: fallen",
+            "D: cast"
+        ]
+    },
+    {
+        "id": 643,
+        "question": "He was happy to be __ friends.",
+        "options": [
+            "A: among",
+            "B: at",
+            "C: with",
+            "D: into"
+        ]
+    },
+    {
+        "id": 644,
+        "question": "Fill in the gap. I have a headache___you buy some aspirin for me?",
+        "options": [
+            "A: shall",
+            "B: will",
+            "C: could",
+            "D: should"
+        ]
+    },
+    {
+        "id": 645,
+        "question": "Select the right one. Nurses attend___patient",
+        "options": [
+            "A: to",
+            "B: by",
+            "C: on",
+            "D: Both a and c"
+        ]
+    },
+    {
+        "id": 646,
+        "question": "Correct indirect form of I said to him, Let us play.",
+        "options": [
+            "A: I told him let us played",
+            "B: I suggested him play",
+            "C: I suggested him playing",
+            "D: All of them are correct"
+        ]
+    },
+    {
+        "id": 647,
+        "question": "Select the correct passive form of Zahid’s behaviour annoyed me.",
+        "options": [
+            "A: I was annoyed at Zahid's behaviour",
+            "B: I was annoyed with Zahid's behaviour",
+            "C: I was annoyed on Zahid's behaviour",
+            "D: I was annoyed by Zahid's behaviour"
+        ]
+    },
+    {
+        "id": 648,
+        "question": "Fill in the gap. I don’t mind___with the cooking but I am not going.",
+        "options": [
+            "A: to help",
+            "B: help",
+            "C: helping",
+            "D: to helping"
+        ]
+    },
+    {
+        "id": 649,
+        "question": "Choose the right verb. Rabindranath\\’s stories of ten___surprising endings.",
+        "options": [
+            "A: Had",
+            "B: Have",
+            "C: Has",
+            "D: Have had"
+        ]
+    },
+    {
+        "id": 650,
+        "question": "This is the go of the world. Which parts of speech the underlined word is_",
+        "options": [
+            "A: Verb",
+            "B: Adjective",
+            "C: Noun",
+            "D: Adverb"
+        ]
+    },
+    {
+        "id": 651,
+        "question": "The strike was called __ at last.",
+        "options": [
+            "A: of",
+            "B: at",
+            "C: off",
+            "D: on"
+        ]
+    },
+    {
+        "id": 652,
+        "question": "Better to reign in hell than to serve in Heaven",
+        "options": [
+            "A: Shakespeare",
+            "B: John Milton",
+            "C: Jonathon Swift",
+            "D: Alexander Pope"
+        ]
+    },
+    {
+        "id": 653,
+        "question": "The Wasteland is written by",
+        "options": [
+            "A: T. S. Eliot",
+            "B: E. M Forster",
+            "C: Rudyard Kipling",
+            "D: Walter Scott"
+        ]
+    },
+    {
+        "id": 654,
+        "question": "If winter comes, can spring be far behind?- is a line from",
+        "options": [
+            "A: Shelley",
+            "B: Coleridge",
+            "C: Byron",
+            "D: Keats"
+        ]
+    },
+    {
+        "id": 655,
+        "question": "Find out the correct spelling_",
+        "options": [
+            "A: Lieutenant",
+            "B: Lifetenant",
+            "C: Lietenant",
+            "D: Leftenant"
+        ]
+    },
+    {
+        "id": 656,
+        "question": "Choose the correct one_",
+        "options": [
+            "A: Mispel",
+            "B: Mispell",
+            "C: Misspel",
+            "D: Misspell"
+        ]
+    },
+    {
+        "id": 657,
+        "question": "Choose the correct antonym of ‘Sluggish’_",
+        "options": [
+            "A: dull",
+            "B: animated",
+            "C: heavy",
+            "D: slow"
+        ]
+    },
+    {
+        "id": 658,
+        "question": "Find out the antonym of ‘Dexterity’?",
+        "options": [
+            "A: skill",
+            "B: knack",
+            "C: adroitness",
+            "D: clumsiness"
+        ]
+    },
+    {
+        "id": 659,
+        "question": "Antonym of ‘untenable’ is_",
+        "options": [
+            "A: supportable",
+            "B: tender",
+            "C: adequate",
+            "D: tremulous"
+        ]
+    },
+    {
+        "id": 660,
+        "question": "What is an antonym of ‘revoke’?",
+        "options": [
+            "A: cancel",
+            "B: withdraw",
+            "C: keep",
+            "D: maintain"
+        ]
+    },
+    {
+        "id": 661,
+        "question": "Meaning of ‘Referendum’ is__",
+        "options": [
+            "A: Snap Pol",
+            "B: Gallop Poll",
+            "C: Plebiscite",
+            "D: None of the above"
+        ]
+    },
+    {
+        "id": 662,
+        "question": "ynonym of ‘procrastinate’__",
+        "options": [
+            "A: Show interest in",
+            "B: Delay",
+            "C: Disappear",
+            "D: Deny"
+        ]
+    },
+    {
+        "id": 663,
+        "question": "What is the meaning of the word ‘intrepid’?",
+        "options": [
+            "A: arrogant",
+            "B: fearless",
+            "C: belligerent",
+            "D: Questioning"
+        ]
+    },
+    {
+        "id": 664,
+        "question": "The synonym of the word ‘Gruesome’ is_",
+        "options": [
+            "A: Dreadful",
+            "B: Frightful",
+            "C: Horrific",
+            "D: All of the above"
+        ]
+    },
+    {
+        "id": 665,
+        "question": "A Lexicographer is a person who writes_",
+        "options": [
+            "A: Novels",
+            "B: Graphs",
+            "C: Medical books",
+            "D: Dictionaries"
+        ]
+    },
+    {
+        "id": 666,
+        "question": "I am afraid you two are at cross-purposes.",
+        "options": [
+            "A: To elicit information from each other.",
+            "B: To misunderstand each other.",
+            "C: To work together.",
+            "D: To work against each other."
+        ]
+    },
+    {
+        "id": 667,
+        "question": "Correct sentence.?",
+        "options": [
+            "A: The board members looked at my certificates.",
+            "B: The board members looked into my certificates.",
+            "C: The board members looked up my certificates.",
+            "D: The board members saw my certificates."
+        ]
+    },
+    {
+        "id": 668,
+        "question": "Correct sentence?",
+        "options": [
+            "A: Two-thirds of the apples is rotten.",
+            "B: Two-thirds of the students have failed.",
+            "C: One-third of the apple are rotten.",
+            "D: You and I am friends."
+        ]
+    },
+    {
+        "id": 669,
+        "question": "The phrase Pull ones leg means",
+        "options": [
+            "A: To cut jokes with someone.",
+            "B: To defeat someone.",
+            "C: To bring up someone.",
+            "D: To bring someone to your favour."
+        ]
+    },
+    {
+        "id": 670,
+        "question": "Passive form of I saw him go is",
+        "options": [
+            "A: He has been seen going by me.",
+            "B: He was seen to go by me.",
+            "C: His going was seen by me.",
+            "D: I was seen to go by him."
+        ]
+    },
+    {
+        "id": 671,
+        "question": "He has made a killing working in the oil industry. Here made a killing means",
+        "options": [
+            "A: To earn reputation",
+            "B: To become nervous",
+            "C: To earn a lot of money",
+            "D: To incur heavy loss"
+        ]
+    },
+    {
+        "id": 672,
+        "question": "WEALTH : LUXURIES",
+        "options": [
+            "A: Story : Moral",
+            "B: Sandwich : bread",
+            "C: Ticket : Admission",
+            "D: Enemy : Friend"
+        ]
+    },
+    {
+        "id": 673,
+        "question": "“If winter comes, can spring be far behind?”_ is a line from",
+        "options": [
+            "A: Shelley",
+            "B: Coleridge",
+            "C: Byron",
+            "D: Keats"
+        ]
+    },
+    {
+        "id": 674,
+        "question": "Who of the following was a poet?",
+        "options": [
+            "A: G B Sha",
+            "B: T S Eliot",
+            "C: Jane Austen",
+            "D: Charles Dickens"
+        ]
+    },
+    {
+        "id": 675,
+        "question": "Find out the correct spelling_",
+        "options": [
+            "A: Leftenant",
+            "B: Lieutenant",
+            "C: Lifetenant",
+            "D: Lietenant"
+        ]
+    },
+    {
+        "id": 676,
+        "question": "Choose the correct one_",
+        "options": [
+            "A: Mispel",
+            "B: Mispell",
+            "C: Misspel",
+            "D: Misspell"
+        ]
+    },
+    {
+        "id": 677,
+        "question": "Choose the correct antonym of ‘Sluggish’_",
+        "options": [
+            "A: dull",
+            "B: animated",
+            "C: heavy",
+            "D: slow"
+        ]
+    },
+    {
+        "id": 678,
+        "question": "Find out the antonym of ‘Dexterity’?",
+        "options": [
+            "A: clumsiness",
+            "B: adroitness",
+            "C: skill",
+            "D: knack"
+        ]
+    },
+    {
+        "id": 679,
+        "question": "Antonym of ‘untenable’ is_",
+        "options": [
+            "A: tender",
+            "B: supportable",
+            "C: adequate",
+            "D: tremulous"
+        ]
+    },
+    {
+        "id": 680,
+        "question": "What is an antonym of ‘revoke’?",
+        "options": [
+            "A: cancel",
+            "B: withdraw",
+            "C: keep",
+            "D: maintain"
+        ]
+    },
+    {
+        "id": 681,
+        "question": "He has made a killing working in the oil industry. Here made a killing means",
+        "options": [
+            "A: To earn reputation",
+            "B: To become nervous",
+            "C: To earn a lot of money",
+            "D: To incur heavy loss"
+        ]
+    },
+    {
+        "id": 682,
+        "question": "WEALTH : LUXURIES",
+        "options": [
+            "A: Story : Moral",
+            "B: Sandwich : bread",
+            "C: Ticket : Admission",
+            "D: Enemy : Friend"
+        ]
+    },
+    {
+        "id": 683,
+        "question": "“If winter comes, can spring be far behind?”_ is a line from",
+        "options": [
+            "A: Shelley",
+            "B: Coleridge",
+            "C: Byron",
+            "D: Keats"
+        ]
+    },
+    {
+        "id": 684,
+        "question": "Who of the following was a poet?",
+        "options": [
+            "A: G B Sha",
+            "B: T S Eliot",
+            "C: Jane Austen",
+            "D: Charles Dickens"
+        ]
+    },
+    {
+        "id": 685,
+        "question": "Find out the correct spelling_",
+        "options": [
+            "A: Leftenant",
+            "B: Lieutenant",
+            "C: Lifetenant",
+            "D: Lietenant"
+        ]
+    },
+    {
+        "id": 686,
+        "question": "Choose the correct one_",
+        "options": [
+            "A: Mispel",
+            "B: Mispell",
+            "C: Misspel",
+            "D: Misspell"
+        ]
+    },
+    {
+        "id": 687,
+        "question": "Choose the correct antonym of ‘Sluggish’_",
+        "options": [
+            "A: dull",
+            "B: animated",
+            "C: heavy",
+            "D: slow"
+        ]
+    },
+    {
+        "id": 688,
+        "question": "Find out the antonym of ‘Dexterity’?",
+        "options": [
+            "A: clumsiness",
+            "B: adroitness",
+            "C: skill",
+            "D: knack"
+        ]
+    },
+    {
+        "id": 689,
+        "question": "Antonym of ‘untenable’ is_",
+        "options": [
+            "A: tender",
+            "B: supportable",
+            "C: adequate",
+            "D: tremulous"
+        ]
+    },
+    {
+        "id": 690,
+        "question": "What is an antonym of ‘revoke’?",
+        "options": [
+            "A: cancel",
+            "B: withdraw",
+            "C: keep",
+            "D: maintain"
+        ]
+    },
+    {
+        "id": 691,
+        "question": "Meaning of ‘Referendum’ is__",
+        "options": [
+            "A: Snap Pol",
+            "B: Gallop Poll",
+            "C: Plebiscite",
+            "D: None of the above"
+        ]
+    },
+    {
+        "id": 692,
+        "question": "Synonym of ‘procrastinate’_",
+        "options": [
+            "A: Show interest in",
+            "B: Delay",
+            "C: Disappear",
+            "D: Deny"
+        ]
+    },
+    {
+        "id": 693,
+        "question": "What is the meaning of the word’intrepid’?",
+        "options": [
+            "A: arrogant",
+            "B: fearless",
+            "C: belligerent",
+            "D: Questioning"
+        ]
+    },
+    {
+        "id": 694,
+        "question": "The synonym of the word ‘Gruesome’ is_",
+        "options": [
+            "A: Dreadful",
+            "B: Frightful",
+            "C: Horrific",
+            "D: All of the above"
+        ]
+    },
+    {
+        "id": 695,
+        "question": "A Lexicographer is a person who writes_",
+        "options": [
+            "A: Novels",
+            "B: Graphs",
+            "C: Medical books",
+            "D: Dictionaries"
+        ]
+    },
+    {
+        "id": 696,
+        "question": "WEALTH : LUXURIES",
+        "options": [
+            "A: Story : Moral",
+            "B: Sandwich : bread",
+            "C: Ticket : Admission",
+            "D: Enemy : Friend"
+        ]
+    },
+    {
+        "id": 697,
+        "question": "I am afraid you two are at cross-purposes.",
+        "options": [
+            "A: To elicit information from each other.",
+            "B: To misunderstand each other.",
+            "C: To work together.",
+            "D: To work against each other."
+        ]
+    },
+    {
+        "id": 698,
+        "question": "Correct sentence?",
+        "options": [
+            "A: The board members saw my certificates.",
+            "B: The board members looked up my certificates.",
+            "C: The board members looked at my certificates.",
+            "D: The board members looked into my certificates."
+        ]
+    },
+    {
+        "id": 699,
+        "question": "Correct sentence?",
+        "options": [
+            "A: Two-thirds of the apples is rotten.",
+            "B: One-third of the apple are rotten.",
+            "C: You and I am friends.",
+            "D: Two-thirds of the students have failed."
+        ]
+    },
+    {
+        "id": 700,
+        "question": "The phrase Pull ones leg means",
+        "options": [
+            "A: To cut jokes with someone.",
+            "B: To defeat someone.",
+            "C: To bring up someone.",
+            "D: To bring someone to your favour."
+        ]
+    },
+    {
+        "id": 701,
+        "question": "Passive form of I saw him go is",
+        "options": [
+            "A: He has been seen going by me.",
+            "B: He was seen to go by me.",
+            "C: His going was seen by me.",
+            "D: I was seen to go by him."
+        ]
+    },
+    {
+        "id": 702,
+        "question": "He has made a killing working in the oil industry. Here made a killing means",
+        "options": [
+            "A: To earn reputation",
+            "B: To become nervous",
+            "C: To earn a lot of money",
+            "D: To incur heavy loss"
+        ]
+    },
+    {
+        "id": 703,
+        "question": "He said that he __ be unable to come.",
+        "options": [
+            "A: would",
+            "B: shall",
+            "C: should",
+            "D: will"
+        ]
+    },
+    {
+        "id": 704,
+        "question": "Syntax means__",
+        "options": [
+            "A: Rules for writing paragraph",
+            "B: Rules for sentence building",
+            "C: Rules for correct pronunciation",
+            "D: Rules for writing an essay"
+        ]
+    },
+    {
+        "id": 705,
+        "question": "A pilgrim is a person who undertakes a journey to a__",
+        "options": [
+            "A: a new country",
+            "B: holy place",
+            "C: a bazar",
+            "D: mosque"
+        ]
+    },
+    {
+        "id": 706,
+        "question": "The expression ‘Lingua franca’ means__",
+        "options": [
+            "A: Common language",
+            "B: First language",
+            "C: International language",
+            "D: Tribal language"
+        ]
+    },
+    {
+        "id": 707,
+        "question": "‘Come here’ choose correct indirect speech-",
+        "options": [
+            "A: He told come here.",
+            "B: He told that I should come here.",
+            "C: He ordered that I go there.",
+            "D: He told me to go there."
+        ]
+    },
+    {
+        "id": 708,
+        "question": "Not many people can commit such a heinous crime in cold blood. What does the above idiom mean?",
+        "options": [
+            "A: in cool brain and calculated thought",
+            "B: stirred by sudden emotion",
+            "C: so impatiently and thought Lesley",
+            "D: so patiently and thoughtfully"
+        ]
+    },
+    {
+        "id": 709,
+        "question": "The__ always do many good things for society. Put the correct phrase in the blank.",
+        "options": [
+            "A: Era long",
+            "B: Big guns",
+            "C: Sheet anchor",
+            "D: Yellow dog"
+        ]
+    },
+    {
+        "id": 710,
+        "question": "Out and out means__",
+        "options": [
+            "A: not at all",
+            "B: brave",
+            "C: thoroughly",
+            "D: whole heatedly"
+        ]
+    },
+    {
+        "id": 711,
+        "question": "We would like to vote__the liberal candidate.",
+        "options": [
+            "A: for",
+            "B: to",
+            "C: with",
+            "D: at"
+        ]
+    },
+    {
+        "id": 712,
+        "question": "Change the voice : His conduct annoyed me.",
+        "options": [
+            "A: He annoyed me with conduct",
+            "B: I was annoyed with his conduct",
+            "C: I was annoyed from his conduct",
+            "D: I was annoyed at his conduct"
+        ]
+    },
+    {
+        "id": 713,
+        "question": "We waited until the plane__.",
+        "options": [
+            "A: did not take off",
+            "B: had not taken off",
+            "C: took off",
+            "D: had taken off"
+        ]
+    },
+    {
+        "id": 714,
+        "question": "To tell a lie is a sin. The underlined word is_",
+        "options": [
+            "A: gerund",
+            "B: infinitive",
+            "C: verb",
+            "D: participle"
+        ]
+    },
+    {
+        "id": 715,
+        "question": "What is the adjective of the word_heart_?",
+        "options": [
+            "A: Hearted",
+            "B: Hearten",
+            "C: Heartening",
+            "D: heartful"
+        ]
+    },
+    {
+        "id": 716,
+        "question": "Find out the adjective-",
+        "options": [
+            "A: beauty",
+            "B: beautiful",
+            "C: beautification",
+            "D: beautify"
+        ]
+    },
+    {
+        "id": 717,
+        "question": "A rolling stone gathers no moss. what _ rolling_is?",
+        "options": [
+            "A: Gerund",
+            "B: Participle",
+            "C: Adjective",
+            "D: Verbal noun"
+        ]
+    },
+    {
+        "id": 718,
+        "question": "It is I who _ guilty.",
+        "options": [
+            "A: are",
+            "B: am",
+            "C: were",
+            "D: am being"
+        ]
+    },
+    {
+        "id": 719,
+        "question": "Who is famous forac atheory of_Objective Co-relative_?",
+        "options": [
+            "A: T. S. Eliot",
+            "B: Edward Morgan Forster",
+            "C: Virginia Woolf",
+            "D: William Somerset Maugham"
+        ]
+    },
+    {
+        "id": 720,
+        "question": "Which spelling is correct?",
+        "options": [
+            "A: Secretariate",
+            "B: Secretariat",
+            "C: Secretariet",
+            "D: Secretariet"
+        ]
+    },
+    {
+        "id": 721,
+        "question": "ELUCIDATE is the synonym of",
+        "options": [
+            "A: expound",
+            "B: extreme",
+            "C: perplex",
+            "D: confuse"
+        ]
+    },
+    {
+        "id": 722,
+        "question": "One should respect one’s elders_. The passive voice is-",
+        "options": [
+            "A: One's elders should be respected.",
+            "B: Elders should be respected.",
+            "C: One's elders should be one's respected",
+            "D: Both b & c"
+        ]
+    },
+    {
+        "id": 723,
+        "question": "What he said was interesting The underline clause is-",
+        "options": [
+            "A: Noun clause",
+            "B: adverb clause",
+            "C: adjective clause",
+            "D: Noun & adjective clause"
+        ]
+    },
+    {
+        "id": 724,
+        "question": "I know the boy who is wounded. The underline clause is—",
+        "options": [
+            "A: None clause",
+            "B: adverb clause",
+            "C: adjective clause",
+            "D: none of them."
+        ]
+    },
+    {
+        "id": 725,
+        "question": "Which one is the right in use.",
+        "options": [
+            "A: It is of no use how talking to him",
+            "B: It is no use talking to him",
+            "C: To talk him is of no good.",
+            "D: It is no good of the talk to him."
+        ]
+    },
+    {
+        "id": 726,
+        "question": "Ashma run fast lest she _ miss the train.",
+        "options": [
+            "A: can",
+            "B: should",
+            "C: cloud",
+            "D: has"
+        ]
+    },
+    {
+        "id": 727,
+        "question": "The police are looking _ the case.",
+        "options": [
+            "A: after",
+            "B: up",
+            "C: an",
+            "D: into"
+        ]
+    },
+    {
+        "id": 728,
+        "question": "A power lunch__Means__",
+        "options": [
+            "A: A lunch where powerful persons attend",
+            "B: A lunch where business deals are discussed",
+            "C: A lunch where head of the state attend",
+            "D: A lunch where criminal plans are sketched out"
+        ]
+    },
+    {
+        "id": 729,
+        "question": "In spite of my requests, he did not_",
+        "options": [
+            "A: fall in",
+            "B: give in",
+            "C: get of",
+            "D: give forth"
+        ]
+    },
+    {
+        "id": 730,
+        "question": "Hard labour __ health.",
+        "options": [
+            "A: breaks upon",
+            "B: turns upon",
+            "C: tells upon",
+            "D: puts upon"
+        ]
+    },
+    {
+        "id": 731,
+        "question": "Karim went home __ seeing his mother.",
+        "options": [
+            "A: with a view to",
+            "B: in view of",
+            "C: in the face of",
+            "D: with the intention"
+        ]
+    }
+]
