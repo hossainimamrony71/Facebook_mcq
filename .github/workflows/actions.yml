@@ -2,7 +2,7 @@ name: run main.py
 
 on:
   schedule:
-    #- cron: "*/60 * * * *"  # every 5 hours
+    - cron: "*/120 * * * *"  # every 5 hours
 jobs:
   post-mcq:
     runs-on: ubuntu-latest
