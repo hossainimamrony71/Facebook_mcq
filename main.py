@@ -31,8 +31,8 @@ def post_mcq_to_facebook(access_token, question):
 
 def main():
     # Load the access token from environment variables
-    # access_token = os.getenv('FACEBOOK_PAGE_ACCESS_TOKEN')
-    access_token = "EAAHf3Ej5CTwBOZBZApV4Q9Eoauq3OGgPpyrGZCnOiFkd9a2To3qwmqHJGZB2fQ1yebHKyKzuYD7SY38vrXql6XyEnJdctvl7Vr1GnqOMxR2fqN87dvJFjI97vgCxGHY3X2yb7OvHzCSKN36rtPImvYezelHT53FAiYnoIHLTMtZC0pdr08iZABccbL99T8CrgZD"
+    access_token = os.getenv('FACEBOOK_PAGE_ACCESS_TOKEN')
+
     start_index_file = "start_index.txt"
 
     # Load questions from the JSON file
