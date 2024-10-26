@@ -2,7 +2,7 @@ name: run main.py
 
 on:
   schedule:
-    - cron: "*/6 * * * *"  # Runs every 1 minute
+    - cron: "*0 */5 * * *"  # Runs every 1 minute
 
 jobs:
   post-mcq:
